@@ -1,0 +1,28 @@
+{
+  "version": 1,
+  "updatedAt": "2026-05-07",
+  "schema": "cue-song-catalog-v1",
+  "files": [
+    {
+      "era": "90s",
+      "file": "songs_1990s.json",
+      "count": 15
+    },
+    {
+      "era": "2000s",
+      "file": "songs_2000s.json",
+      "count": 15
+    },
+    {
+      "era": "2010s",
+      "file": "songs_2010s.json",
+      "count": 20
+    },
+    {
+      "era": "2020s",
+      "file": "songs_2020s.json",
+      "count": 20
+    }
+  ],
+  "notes": "previewURL은 포함하지 않음. appleMusicId/cueStartTime 검증 후 isActive를 true로 전환."
+}

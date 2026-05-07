@@ -1,0 +1,268 @@
+[
+  {
+    "id": "cue_2000s_0101",
+    "appleMusicId": "300657302",
+    "era": "2000s",
+    "difficulty": "easy",
+    "cueType": "intro",
+    "cueStartTime": 0.0,
+    "cueDuration": 2.5,
+    "introAdjusted": false,
+    "tags": [
+      "girl-group",
+      "dance"
+    ],
+    "isActive": true,
+    "curationTitle": "One More Time",
+    "curationArtist": "쥬얼리",
+    "curationNotes": ""
+  },
+  {
+    "id": "cue_2000s_0102",
+    "appleMusicId": "289033300",
+    "era": "2000s",
+    "difficulty": "easy",
+    "cueType": "intro",
+    "cueStartTime": 0.0,
+    "cueDuration": 2.5,
+    "introAdjusted": false,
+    "tags": [
+      "girl-group",
+      "iconic-intro"
+    ],
+    "isActive": true,
+    "curationTitle": "Tell Me",
+    "curationArtist": "원더걸스",
+    "curationNotes": ""
+  },
+  {
+    "id": "cue_2000s_0103",
+    "appleMusicId": "299804122",
+    "era": "2000s",
+    "difficulty": "easy",
+    "cueType": "intro",
+    "cueStartTime": 0.0,
+    "cueDuration": 2.5,
+    "introAdjusted": false,
+    "tags": [
+      "girl-group",
+      "retro"
+    ],
+    "isActive": true,
+    "curationTitle": "Nobody",
+    "curationArtist": "원더걸스",
+    "curationNotes": ""
+  },
+  {
+    "id": "cue_2000s_0104",
+    "appleMusicId": "854911644",
+    "era": "2000s",
+    "difficulty": "easy",
+    "cueType": "intro",
+    "cueStartTime": 0.0,
+    "cueDuration": 2.5,
+    "introAdjusted": false,
+    "tags": [
+      "girl-group",
+      "iconic-intro"
+    ],
+    "isActive": true,
+    "curationTitle": "Gee",
+    "curationArtist": "소녀시대",
+    "curationNotes": ""
+  },
+  {
+    "id": "cue_2000s_0105",
+    "appleMusicId": "854915055",
+    "era": "2000s",
+    "difficulty": "easy",
+    "cueType": "intro",
+    "cueStartTime": 0.0,
+    "cueDuration": 2.5,
+    "introAdjusted": false,
+    "tags": [
+      "girl-group"
+    ],
+    "isActive": true,
+    "curationTitle": "소원을 말해봐",
+    "curationArtist": "소녀시대",
+    "curationNotes": ""
+  },
+  {
+    "id": "cue_2000s_0106",
+    "appleMusicId": "1655107915",
+    "era": "2000s",
+    "difficulty": "easy",
+    "cueType": "intro",
+    "cueStartTime": 0.0,
+    "cueDuration": 2.5,
+    "introAdjusted": false,
+    "tags": [
+      "solo",
+      "dance"
+    ],
+    "isActive": true,
+    "curationTitle": "미쳤어",
+    "curationArtist": "손담비",
+    "curationNotes": ""
+  },
+  {
+    "id": "cue_2000s_0107",
+    "appleMusicId": "1688124068",
+    "era": "2000s",
+    "difficulty": "easy",
+    "cueType": "intro",
+    "cueStartTime": 0.0,
+    "cueDuration": 2.5,
+    "introAdjusted": false,
+    "tags": [
+      "solo",
+      "dance"
+    ],
+    "isActive": true,
+    "curationTitle": "U-Go-Girl",
+    "curationArtist": "이효리",
+    "curationNotes": ""
+  },
+  {
+    "id": "cue_2000s_0108",
+    "appleMusicId": "1330947216",
+    "era": "2000s",
+    "difficulty": "easy",
+    "cueType": "intro",
+    "cueStartTime": 0.0,
+    "cueDuration": 2.5,
+    "introAdjusted": false,
+    "tags": [
+      "boy-group",
+      "iconic-intro"
+    ],
+    "isActive": true,
+    "curationTitle": "거짓말",
+    "curationArtist": "BIGBANG",
+    "curationNotes": ""
+  },
+  {
+    "id": "cue_2000s_0109",
+    "appleMusicId": "1346470976",
+    "era": "2000s",
+    "difficulty": "easy",
+    "cueType": "intro",
+    "cueStartTime": 0.0,
+    "cueDuration": 2.5,
+    "introAdjusted": false,
+    "tags": [
+      "boy-group",
+      "ballad-dance"
+    ],
+    "isActive": true,
+    "curationTitle": "Haru Haru",
+    "curationArtist": "BIGBANG",
+    "curationNotes": ""
+  },
+  {
+    "id": "cue_2000s_0110",
+    "appleMusicId": "854890251",
+    "era": "2000s",
+    "difficulty": "easy",
+    "cueType": "intro",
+    "cueStartTime": 0.0,
+    "cueDuration": 2.5,
+    "introAdjusted": false,
+    "tags": [
+      "boy-group",
+      "iconic-intro"
+    ],
+    "isActive": true,
+    "curationTitle": "Sorry, Sorry",
+    "curationArtist": "SUPER JUNIOR",
+    "curationNotes": ""
+  },
+  {
+    "id": "cue_2000s_0111",
+    "appleMusicId": "1062469154",
+    "era": "2000s",
+    "difficulty": "easy",
+    "cueType": "intro",
+    "cueStartTime": 0.0,
+    "cueDuration": 2.5,
+    "introAdjusted": false,
+    "tags": [
+      "boy-group"
+    ],
+    "isActive": true,
+    "curationTitle": "주문-MIROTIC",
+    "curationArtist": "TVXQ!",
+    "curationNotes": ""
+  },
+  {
+    "id": "cue_2000s_0112",
+    "appleMusicId": "313380064",
+    "era": "2000s",
+    "difficulty": "medium",
+    "cueType": "intro",
+    "cueStartTime": 0.0,
+    "cueDuration": 2.0,
+    "introAdjusted": false,
+    "tags": [
+      "boy-group"
+    ],
+    "isActive": true,
+    "curationTitle": "Again & Again",
+    "curationArtist": "2PM",
+    "curationNotes": ""
+  },
+  {
+    "id": "cue_2000s_0113",
+    "appleMusicId": "1804699150",
+    "era": "2000s",
+    "difficulty": "easy",
+    "cueType": "intro",
+    "cueStartTime": 0.0,
+    "cueDuration": 2.5,
+    "introAdjusted": false,
+    "tags": [
+      "girl-group",
+      "iconic-intro"
+    ],
+    "isActive": true,
+    "curationTitle": "Abracadabra",
+    "curationArtist": "Brown Eyed Girls",
+    "curationNotes": ""
+  },
+  {
+    "id": "cue_2000s_0114",
+    "appleMusicId": "1339060468",
+    "era": "2000s",
+    "difficulty": "easy",
+    "cueType": "intro",
+    "cueStartTime": 0.0,
+    "cueDuration": 2.5,
+    "introAdjusted": false,
+    "tags": [
+      "girl-group",
+      "debut"
+    ],
+    "isActive": true,
+    "curationTitle": "Fire",
+    "curationArtist": "2NE1",
+    "curationNotes": ""
+  },
+  {
+    "id": "cue_2000s_0115",
+    "appleMusicId": "1339060469",
+    "era": "2000s",
+    "difficulty": "easy",
+    "cueType": "intro",
+    "cueStartTime": 0.0,
+    "cueDuration": 2.5,
+    "introAdjusted": false,
+    "tags": [
+      "girl-group"
+    ],
+    "isActive": true,
+    "curationTitle": "I Don't Care",
+    "curationArtist": "2NE1",
+    "curationNotes": ""
+  }
+]

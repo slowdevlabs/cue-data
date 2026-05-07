@@ -1,0 +1,349 @@
+[
+  {
+    "id": "cue_2020s_0301",
+    "appleMusicId": "1597024424",
+    "era": "2020s",
+    "difficulty": "easy",
+    "cueType": "intro",
+    "cueStartTime": 0.0,
+    "cueDuration": 2.5,
+    "introAdjusted": false,
+    "tags": [
+      "boy-group",
+      "global-hit"
+    ],
+    "isActive": true,
+    "curationTitle": "Dynamite",
+    "curationArtist": "BTS",
+    "curationNotes": ""
+  },
+  {
+    "id": "cue_2020s_0302",
+    "appleMusicId": "1519364407",
+    "era": "2020s",
+    "difficulty": "easy",
+    "cueType": "intro",
+    "cueStartTime": 0.0,
+    "cueDuration": 2.5,
+    "introAdjusted": false,
+    "tags": [
+      "girl-group",
+      "global-hit"
+    ],
+    "isActive": true,
+    "curationTitle": "How You Like That",
+    "curationArtist": "BLACKPINK",
+    "curationNotes": ""
+  },
+  {
+    "id": "cue_2020s_0303",
+    "appleMusicId": "1567326688",
+    "era": "2020s",
+    "difficulty": "easy",
+    "cueType": "intro",
+    "cueStartTime": 0.0,
+    "cueDuration": 2.5,
+    "introAdjusted": false,
+    "tags": [
+      "girl-group",
+      "iconic-intro"
+    ],
+    "isActive": true,
+    "curationTitle": "Next Level",
+    "curationArtist": "aespa",
+    "curationNotes": ""
+  },
+  {
+    "id": "cue_2020s_0304",
+    "appleMusicId": "1587844525",
+    "era": "2020s",
+    "difficulty": "easy",
+    "cueType": "intro",
+    "cueStartTime": 0.0,
+    "cueDuration": 2.5,
+    "introAdjusted": false,
+    "tags": [
+      "girl-group"
+    ],
+    "isActive": true,
+    "curationTitle": "Savage",
+    "curationArtist": "aespa",
+    "curationNotes": ""
+  },
+  {
+    "id": "cue_2020s_0305",
+    "appleMusicId": "1597404252",
+    "era": "2020s",
+    "difficulty": "easy",
+    "cueType": "intro",
+    "cueStartTime": 0.0,
+    "cueDuration": 2.5,
+    "introAdjusted": false,
+    "tags": [
+      "girl-group",
+      "debut"
+    ],
+    "isActive": true,
+    "curationTitle": "ELEVEN",
+    "curationArtist": "IVE",
+    "curationNotes": ""
+  },
+  {
+    "id": "cue_2020s_0306",
+    "appleMusicId": "1616804152",
+    "era": "2020s",
+    "difficulty": "easy",
+    "cueType": "intro",
+    "cueStartTime": 0.0,
+    "cueDuration": 2.5,
+    "introAdjusted": false,
+    "tags": [
+      "girl-group"
+    ],
+    "isActive": true,
+    "curationTitle": "LOVE DIVE",
+    "curationArtist": "IVE",
+    "curationNotes": ""
+  },
+  {
+    "id": "cue_2020s_0307",
+    "appleMusicId": "1640202552",
+    "era": "2020s",
+    "difficulty": "easy",
+    "cueType": "intro",
+    "cueStartTime": 0.0,
+    "cueDuration": 2.5,
+    "introAdjusted": false,
+    "tags": [
+      "girl-group"
+    ],
+    "isActive": true,
+    "curationTitle": "After LIKE",
+    "curationArtist": "IVE",
+    "curationNotes": ""
+  },
+  {
+    "id": "cue_2020s_0308",
+    "appleMusicId": "1613139922",
+    "era": "2020s",
+    "difficulty": "easy",
+    "cueType": "intro",
+    "cueStartTime": 0.0,
+    "cueDuration": 2.5,
+    "introAdjusted": false,
+    "tags": [
+      "girl-group"
+    ],
+    "isActive": true,
+    "curationTitle": "TOMBOY",
+    "curationArtist": "(G)I-DLE",
+    "curationNotes": ""
+  },
+  {
+    "id": "cue_2020s_0309",
+    "appleMusicId": "1687024225",
+    "era": "2020s",
+    "difficulty": "easy",
+    "cueType": "intro",
+    "cueStartTime": 0.0,
+    "cueDuration": 2.5,
+    "introAdjusted": false,
+    "tags": [
+      "girl-group"
+    ],
+    "isActive": true,
+    "curationTitle": "Queencard",
+    "curationArtist": "(G)I-DLE",
+    "curationNotes": ""
+  },
+  {
+    "id": "cue_2020s_0310",
+    "appleMusicId": "1635469851",
+    "era": "2020s",
+    "difficulty": "easy",
+    "cueType": "intro",
+    "cueStartTime": 0.0,
+    "cueDuration": 2.5,
+    "introAdjusted": false,
+    "tags": [
+      "girl-group",
+      "debut-era"
+    ],
+    "isActive": true,
+    "curationTitle": "Hype Boy",
+    "curationArtist": "NewJeans",
+    "curationNotes": ""
+  },
+  {
+    "id": "cue_2020s_0311",
+    "appleMusicId": "1635469694",
+    "era": "2020s",
+    "difficulty": "easy",
+    "cueType": "intro",
+    "cueStartTime": 0.0,
+    "cueDuration": 2.5,
+    "introAdjusted": false,
+    "tags": [
+      "girl-group",
+      "debut"
+    ],
+    "isActive": true,
+    "curationTitle": "Attention",
+    "curationArtist": "NewJeans",
+    "curationNotes": ""
+  },
+  {
+    "id": "cue_2020s_0312",
+    "appleMusicId": "1657231962",
+    "era": "2020s",
+    "difficulty": "easy",
+    "cueType": "intro",
+    "cueStartTime": 0.0,
+    "cueDuration": 2.5,
+    "introAdjusted": false,
+    "tags": [
+      "girl-group"
+    ],
+    "isActive": true,
+    "curationTitle": "Ditto",
+    "curationArtist": "NewJeans",
+    "curationNotes": ""
+  },
+  {
+    "id": "cue_2020s_0313",
+    "appleMusicId": "1659513445",
+    "era": "2020s",
+    "difficulty": "easy",
+    "cueType": "intro",
+    "cueStartTime": 0.0,
+    "cueDuration": 2.5,
+    "introAdjusted": false,
+    "tags": [
+      "girl-group"
+    ],
+    "isActive": true,
+    "curationTitle": "OMG",
+    "curationArtist": "NewJeans",
+    "curationNotes": ""
+  },
+  {
+    "id": "cue_2020s_0314",
+    "appleMusicId": "1647830390",
+    "era": "2020s",
+    "difficulty": "easy",
+    "cueType": "intro",
+    "cueStartTime": 0.0,
+    "cueDuration": 2.5,
+    "introAdjusted": false,
+    "tags": [
+      "girl-group"
+    ],
+    "isActive": true,
+    "curationTitle": "ANTIFRAGILE",
+    "curationArtist": "LE SSERAFIM",
+    "curationNotes": ""
+  },
+  {
+    "id": "cue_2020s_0315",
+    "appleMusicId": "1682502472",
+    "era": "2020s",
+    "difficulty": "medium",
+    "cueType": "intro",
+    "cueStartTime": 0.0,
+    "cueDuration": 2.0,
+    "introAdjusted": false,
+    "tags": [
+      "girl-group"
+    ],
+    "isActive": true,
+    "curationTitle": "UNFORGIVEN",
+    "curationArtist": "LE SSERAFIM",
+    "curationNotes": ""
+  },
+  {
+    "id": "cue_2020s_0316",
+    "appleMusicId": "1692686518",
+    "era": "2020s",
+    "difficulty": "easy",
+    "cueType": "intro",
+    "cueStartTime": 0.0,
+    "cueDuration": 2.5,
+    "introAdjusted": false,
+    "tags": [
+      "girl-group"
+    ],
+    "isActive": true,
+    "curationTitle": "Super Shy",
+    "curationArtist": "NewJeans",
+    "curationNotes": ""
+  },
+  {
+    "id": "cue_2020s_0317",
+    "appleMusicId": "1680865730",
+    "era": "2020s",
+    "difficulty": "easy",
+    "cueType": "intro",
+    "cueStartTime": 0.0,
+    "cueDuration": 2.5,
+    "introAdjusted": false,
+    "tags": [
+      "girl-group"
+    ],
+    "isActive": true,
+    "curationTitle": "I AM",
+    "curationArtist": "IVE",
+    "curationNotes": ""
+  },
+  {
+    "id": "cue_2020s_0318",
+    "appleMusicId": "1745281749",
+    "era": "2020s",
+    "difficulty": "easy",
+    "cueType": "intro",
+    "cueStartTime": 0.0,
+    "cueDuration": 2.5,
+    "introAdjusted": false,
+    "tags": [
+      "girl-group"
+    ],
+    "isActive": true,
+    "curationTitle": "Supernova",
+    "curationArtist": "aespa",
+    "curationNotes": ""
+  },
+  {
+    "id": "cue_2020s_0319",
+    "appleMusicId": "1715939931",
+    "era": "2020s",
+    "difficulty": "medium",
+    "cueType": "intro",
+    "cueStartTime": 0.0,
+    "cueDuration": 2.0,
+    "introAdjusted": false,
+    "tags": [
+      "girl-group"
+    ],
+    "isActive": true,
+    "curationTitle": "Drama",
+    "curationArtist": "aespa",
+    "curationNotes": ""
+  },
+  {
+    "id": "cue_2020s_0320",
+    "appleMusicId": "1734500896",
+    "era": "2020s",
+    "difficulty": "easy",
+    "cueType": "intro",
+    "cueStartTime": 0.0,
+    "cueDuration": 2.5,
+    "introAdjusted": false,
+    "tags": [
+      "girl-group",
+      "debut"
+    ],
+    "isActive": true,
+    "curationTitle": "Magnetic",
+    "curationArtist": "ILLIT",
+    "curationNotes": ""
+  }
+]

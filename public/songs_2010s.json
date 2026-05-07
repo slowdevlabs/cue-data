@@ -1,0 +1,355 @@
+[
+  {
+    "id": "cue_2010s_0201",
+    "appleMusicId": "450789302",
+    "era": "2010s",
+    "difficulty": "easy",
+    "cueType": "intro",
+    "cueStartTime": 0.0,
+    "cueDuration": 2.5,
+    "introAdjusted": false,
+    "tags": [
+      "girl-group",
+      "debut"
+    ],
+    "isActive": true,
+    "curationTitle": "Bad Girl Good Girl",
+    "curationArtist": "miss A",
+    "curationNotes": ""
+  },
+  {
+    "id": "cue_2010s_0202",
+    "appleMusicId": "409076748",
+    "era": "2010s",
+    "difficulty": "easy",
+    "cueType": "intro",
+    "cueStartTime": 0.0,
+    "cueDuration": 2.5,
+    "introAdjusted": false,
+    "tags": [
+      "solo",
+      "vocal"
+    ],
+    "isActive": true,
+    "curationTitle": "Good Day",
+    "curationArtist": "IU",
+    "curationNotes": ""
+  },
+  {
+    "id": "cue_2010s_0203",
+    "appleMusicId": "1338689927",
+    "era": "2010s",
+    "difficulty": "easy",
+    "cueType": "intro",
+    "cueStartTime": 0.0,
+    "cueDuration": 2.5,
+    "introAdjusted": false,
+    "tags": [
+      "girl-group",
+      "iconic-intro"
+    ],
+    "isActive": true,
+    "curationTitle": "I Am the Best",
+    "curationArtist": "2NE1",
+    "curationNotes": ""
+  },
+  {
+    "id": "cue_2010s_0204",
+    "appleMusicId": "1337452979",
+    "era": "2010s",
+    "difficulty": "easy",
+    "cueType": "intro",
+    "cueStartTime": 0.0,
+    "cueDuration": 2.5,
+    "introAdjusted": false,
+    "tags": [
+      "boy-group",
+      "iconic-intro"
+    ],
+    "isActive": true,
+    "curationTitle": "Fantastic Baby",
+    "curationArtist": "BIGBANG",
+    "curationNotes": ""
+  },
+  {
+    "id": "cue_2010s_0205",
+    "appleMusicId": "1339074799",
+    "era": "2010s",
+    "difficulty": "easy",
+    "cueType": "intro",
+    "cueStartTime": 0.0,
+    "cueDuration": 2.5,
+    "introAdjusted": false,
+    "tags": [
+      "solo",
+      "global-hit"
+    ],
+    "isActive": true,
+    "curationTitle": "Gangnam Style",
+    "curationArtist": "PSY",
+    "curationNotes": ""
+  },
+  {
+    "id": "cue_2010s_0206",
+    "appleMusicId": "854908245",
+    "era": "2010s",
+    "difficulty": "easy",
+    "cueType": "intro",
+    "cueStartTime": 0.0,
+    "cueDuration": 2.5,
+    "introAdjusted": false,
+    "tags": [
+      "boy-group"
+    ],
+    "isActive": true,
+    "curationTitle": "Growl",
+    "curationArtist": "EXO",
+    "curationNotes": ""
+  },
+  {
+    "id": "cue_2010s_0207",
+    "appleMusicId": "994425114",
+    "era": "2010s",
+    "difficulty": "easy",
+    "cueType": "intro",
+    "cueStartTime": 0.0,
+    "cueDuration": 2.5,
+    "introAdjusted": false,
+    "tags": [
+      "boy-group",
+      "2nd-gen",
+      "summer"
+    ],
+    "isActive": true,
+    "curationTitle": "View",
+    "curationArtist": "SHINee",
+    "curationNotes": ""
+  },
+  {
+    "id": "cue_2010s_0208",
+    "appleMusicId": "854855933",
+    "era": "2010s",
+    "difficulty": "easy",
+    "cueType": "intro",
+    "cueStartTime": 0.0,
+    "cueDuration": 2.5,
+    "introAdjusted": false,
+    "tags": [
+      "girl-group"
+    ],
+    "isActive": true,
+    "curationTitle": "Mr. Chu",
+    "curationArtist": "Apink",
+    "curationNotes": ""
+  },
+  {
+    "id": "cue_2010s_0209",
+    "appleMusicId": "1453486569",
+    "era": "2010s",
+    "difficulty": "medium",
+    "cueType": "intro",
+    "cueStartTime": 0.0,
+    "cueDuration": 2.0,
+    "introAdjusted": false,
+    "tags": [
+      "girl-group"
+    ],
+    "isActive": true,
+    "curationTitle": "Something",
+    "curationArtist": "Girl's Day",
+    "curationNotes": ""
+  },
+  {
+    "id": "cue_2010s_0210",
+    "appleMusicId": "901251398",
+    "era": "2010s",
+    "difficulty": "easy",
+    "cueType": "intro",
+    "cueStartTime": 0.0,
+    "cueDuration": 2.5,
+    "introAdjusted": false,
+    "tags": [
+      "girl-group",
+      "summer"
+    ],
+    "isActive": true,
+    "curationTitle": "Touch My Body",
+    "curationArtist": "SISTAR",
+    "curationNotes": ""
+  },
+  {
+    "id": "cue_2010s_0211",
+    "appleMusicId": "913346311",
+    "era": "2010s",
+    "difficulty": "easy",
+    "cueType": "intro",
+    "cueStartTime": 0.0,
+    "cueDuration": 2.5,
+    "introAdjusted": false,
+    "tags": [
+      "girl-group"
+    ],
+    "isActive": true,
+    "curationTitle": "Up & Down",
+    "curationArtist": "EXID",
+    "curationNotes": ""
+  },
+  {
+    "id": "cue_2010s_0212",
+    "appleMusicId": "1107529253",
+    "era": "2010s",
+    "difficulty": "easy",
+    "cueType": "intro",
+    "cueStartTime": 0.0,
+    "cueDuration": 2.5,
+    "introAdjusted": false,
+    "tags": [
+      "girl-group"
+    ],
+    "isActive": true,
+    "curationTitle": "Cheer Up",
+    "curationArtist": "TWICE",
+    "curationNotes": ""
+  },
+  {
+    "id": "cue_2010s_0213",
+    "appleMusicId": "1168570286",
+    "era": "2010s",
+    "difficulty": "easy",
+    "cueType": "intro",
+    "cueStartTime": 0.0,
+    "cueDuration": 2.5,
+    "introAdjusted": false,
+    "tags": [
+      "girl-group",
+      "iconic"
+    ],
+    "isActive": true,
+    "curationTitle": "TT",
+    "curationArtist": "TWICE",
+    "curationNotes": ""
+  },
+  {
+    "id": "cue_2010s_0214",
+    "appleMusicId": "1256504651",
+    "era": "2010s",
+    "difficulty": "easy",
+    "cueType": "intro",
+    "cueStartTime": 0.0,
+    "cueDuration": 2.5,
+    "introAdjusted": false,
+    "tags": [
+      "girl-group",
+      "summer"
+    ],
+    "isActive": true,
+    "curationTitle": "Red Flavor",
+    "curationArtist": "Red Velvet",
+    "curationNotes": ""
+  },
+  {
+    "id": "cue_2010s_0215",
+    "appleMusicId": "1598730623",
+    "era": "2010s",
+    "difficulty": "easy",
+    "cueType": "intro",
+    "cueStartTime": 0.0,
+    "cueDuration": 2.5,
+    "introAdjusted": false,
+    "tags": [
+      "boy-group",
+      "global-hit"
+    ],
+    "isActive": true,
+    "curationTitle": "DNA",
+    "curationArtist": "BTS",
+    "curationNotes": ""
+  },
+  {
+    "id": "cue_2010s_0216",
+    "appleMusicId": "1596529381",
+    "era": "2010s",
+    "difficulty": "easy",
+    "cueType": "intro",
+    "cueStartTime": 0.0,
+    "cueDuration": 2.5,
+    "introAdjusted": false,
+    "tags": [
+      "boy-group",
+      "ballad"
+    ],
+    "isActive": true,
+    "curationTitle": "Spring Day",
+    "curationArtist": "BTS",
+    "curationNotes": ""
+  },
+  {
+    "id": "cue_2010s_0217",
+    "appleMusicId": "1398185834",
+    "era": "2010s",
+    "difficulty": "easy",
+    "cueType": "intro",
+    "cueStartTime": 0.0,
+    "cueDuration": 2.5,
+    "introAdjusted": false,
+    "tags": [
+      "girl-group",
+      "global-hit"
+    ],
+    "isActive": true,
+    "curationTitle": "DDU-DU DDU-DU",
+    "curationArtist": "BLACKPINK",
+    "curationNotes": ""
+  },
+  {
+    "id": "cue_2010s_0218",
+    "appleMusicId": "1339623399",
+    "era": "2010s",
+    "difficulty": "easy",
+    "cueType": "intro",
+    "cueStartTime": 0.0,
+    "cueDuration": 2.5,
+    "introAdjusted": false,
+    "tags": [
+      "boy-group"
+    ],
+    "isActive": true,
+    "curationTitle": "LOVE SCENARIO",
+    "curationArtist": "iKON",
+    "curationNotes": ""
+  },
+  {
+    "id": "cue_2010s_0219",
+    "appleMusicId": "1330921814",
+    "era": "2010s",
+    "difficulty": "easy",
+    "cueType": "intro",
+    "cueStartTime": 0.0,
+    "cueDuration": 2.5,
+    "introAdjusted": false,
+    "tags": [
+      "girl-group"
+    ],
+    "isActive": true,
+    "curationTitle": "BBoom BBoom",
+    "curationArtist": "MOMOLAND",
+    "curationNotes": ""
+  },
+  {
+    "id": "cue_2010s_0220",
+    "appleMusicId": "1491888506",
+    "era": "2010s",
+    "difficulty": "medium",
+    "cueType": "intro",
+    "cueStartTime": 0.0,
+    "cueDuration": 2.0,
+    "introAdjusted": false,
+    "tags": [
+      "girl-group"
+    ],
+    "isActive": true,
+    "curationTitle": "Psycho",
+    "curationArtist": "Red Velvet",
+    "curationNotes": ""
+  }
+]
