@@ -4,7 +4,7 @@
   "schema": "cue-song-catalog-v1",
   "files": [
     {
-      "era": "90s",
+      "era": "1990s",
       "file": "songs_1990s.json",
       "count": 15
     },
