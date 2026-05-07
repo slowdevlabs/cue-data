@@ -1,0 +1,277 @@
+[
+  {
+    "id": "cue_1990s_0001",
+    "appleMusicId": "1060455878",
+    "era": "90s",
+    "difficulty": "easy",
+    "cueType": "preview",
+    "cueStartTime": 0.0,
+    "cueDuration": 2.5,
+    "introAdjusted": false,
+    "tags": [
+      "1st-gen",
+      "boy-group",
+      "iconic-intro"
+    ],
+    "isActive": true,
+    "curationTitle": "Candy",
+    "curationArtist": "H.O.T.",
+    "curationNotes": ""
+  },
+  {
+    "id": "cue_1990s_0002",
+    "appleMusicId": "1060462218",
+    "era": "90s",
+    "difficulty": "easy",
+    "cueType": "preview",
+    "cueStartTime": 0.0,
+    "cueDuration": 2.5,
+    "introAdjusted": false,
+    "tags": [
+      "1st-gen",
+      "boy-group"
+    ],
+    "isActive": true,
+    "curationTitle": "행복",
+    "curationArtist": "H.O.T.",
+    "curationNotes": ""
+  },
+  {
+    "id": "cue_1990s_0003",
+    "appleMusicId": "1463773208",
+    "era": "90s",
+    "difficulty": "easy",
+    "cueType": "preview",
+    "cueStartTime": 0.0,
+    "cueDuration": 2.5,
+    "introAdjusted": false,
+    "tags": [
+      "1st-gen",
+      "boy-group"
+    ],
+    "isActive": true,
+    "curationTitle": "Couple",
+    "curationArtist": "젝스키스",
+    "curationNotes": ""
+  },
+  {
+    "id": "cue_1990s_0004",
+    "appleMusicId": "1463773756",
+    "era": "90s",
+    "difficulty": "medium",
+    "cueType": "preview",
+    "cueStartTime": 0.0,
+    "cueDuration": 2.0,
+    "introAdjusted": false,
+    "tags": [
+      "1st-gen",
+      "boy-group"
+    ],
+    "isActive": true,
+    "curationTitle": "폼생폼사",
+    "curationArtist": "젝스키스",
+    "curationNotes": ""
+  },
+  {
+    "id": "cue_1990s_0005",
+    "appleMusicId": "1060484510",
+    "era": "90s",
+    "difficulty": "easy",
+    "cueType": "preview",
+    "cueStartTime": 0.0,
+    "cueDuration": 2.5,
+    "introAdjusted": false,
+    "tags": [
+      "1st-gen",
+      "girl-group",
+      "iconic-intro"
+    ],
+    "isActive": true,
+    "curationTitle": "Dreams Come True",
+    "curationArtist": "S.E.S.",
+    "curationNotes": ""
+  },
+  {
+    "id": "cue_1990s_0006",
+    "appleMusicId": "1060481744",
+    "era": "90s",
+    "difficulty": "easy",
+    "cueType": "preview",
+    "cueStartTime": 0.0,
+    "cueDuration": 2.5,
+    "introAdjusted": false,
+    "tags": [
+      "1st-gen",
+      "girl-group",
+      "debut"
+    ],
+    "isActive": true,
+    "curationTitle": "I'm Your Girl",
+    "curationArtist": "S.E.S.",
+    "curationNotes": ""
+  },
+  {
+    "id": "cue_1990s_0007",
+    "appleMusicId": "1456211562",
+    "era": "90s",
+    "difficulty": "easy",
+    "cueType": "preview",
+    "cueStartTime": 0.0,
+    "cueDuration": 2.5,
+    "introAdjusted": false,
+    "tags": [
+      "1st-gen",
+      "girl-group"
+    ],
+    "isActive": true,
+    "curationTitle": "To My Boyfriend",
+    "curationArtist": "핑클",
+    "curationNotes": ""
+  },
+  {
+    "id": "cue_1990s_0008",
+    "appleMusicId": "1456207541",
+    "era": "90s",
+    "difficulty": "easy",
+    "cueType": "preview",
+    "cueStartTime": 0.0,
+    "cueDuration": 2.5,
+    "introAdjusted": false,
+    "tags": [
+      "1st-gen",
+      "girl-group"
+    ],
+    "isActive": true,
+    "curationTitle": "영원한 사랑",
+    "curationArtist": "핑클",
+    "curationNotes": ""
+  },
+  {
+    "id": "cue_1990s_0009",
+    "appleMusicId": "1494267337",
+    "era": "90s",
+    "difficulty": "easy",
+    "cueType": "preview",
+    "cueStartTime": 0.0,
+    "cueDuration": 2.5,
+    "introAdjusted": false,
+    "tags": [
+      "dance",
+      "mixed-group"
+    ],
+    "isActive": true,
+    "curationTitle": "날개 잃은 천사",
+    "curationArtist": "룰라",
+    "curationNotes": ""
+  },
+  {
+    "id": "cue_1990s_0010",
+    "appleMusicId": "1728627771",
+    "era": "90s",
+    "difficulty": "easy",
+    "cueType": "preview",
+    "cueStartTime": 0.0,
+    "cueDuration": 2.5,
+    "introAdjusted": false,
+    "tags": [
+      "dance",
+      "solo"
+    ],
+    "isActive": true,
+    "curationTitle": "잘못된 만남",
+    "curationArtist": "김건모",
+    "curationNotes": ""
+  },
+  {
+    "id": "cue_1990s_0011",
+    "appleMusicId": "1342475374",
+    "era": "90s",
+    "difficulty": "medium",
+    "cueType": "preview",
+    "cueStartTime": 0.0,
+    "cueDuration": 2.0,
+    "introAdjusted": false,
+    "tags": [
+      "hip-hop",
+      "duo"
+    ],
+    "isActive": true,
+    "curationTitle": "가솔린",
+    "curationArtist": "지누션",
+    "curationNotes": ""
+  },
+  {
+    "id": "cue_1990s_0012",
+    "appleMusicId": "1421108874",
+    "era": "90s",
+    "difficulty": "medium",
+    "cueType": "preview",
+    "cueStartTime": 0.0,
+    "cueDuration": 2.0,
+    "introAdjusted": false,
+    "tags": [
+      "mixed-group",
+      "dance"
+    ],
+    "isActive": true,
+    "curationTitle": "Tell Me Tell Me",
+    "curationArtist": "샵",
+    "curationNotes": ""
+  },
+  {
+    "id": "cue_1990s_0013",
+    "appleMusicId": "1700425646",
+    "era": "90s",
+    "difficulty": "medium",
+    "cueType": "preview",
+    "cueStartTime": 0.0,
+    "cueDuration": 2.0,
+    "introAdjusted": false,
+    "tags": [
+      "girl-group",
+      "dance"
+    ],
+    "isActive": true,
+    "curationTitle": "왜 불러",
+    "curationArtist": "디바",
+    "curationNotes": ""
+  },
+  {
+    "id": "cue_1990s_0014",
+    "appleMusicId": "1617083098",
+    "era": "90s",
+    "difficulty": "easy",
+    "cueType": "preview",
+    "cueStartTime": 0.0,
+    "cueDuration": 2.5,
+    "introAdjusted": false,
+    "tags": [
+      "solo",
+      "techno",
+      "iconic-intro"
+    ],
+    "isActive": true,
+    "curationTitle": "와",
+    "curationArtist": "이정현",
+    "curationNotes": ""
+  },
+  {
+    "id": "cue_1990s_0015",
+    "appleMusicId": "1618189407",
+    "era": "90s",
+    "difficulty": "medium",
+    "cueType": "preview",
+    "cueStartTime": 0.0,
+    "cueDuration": 2.0,
+    "introAdjusted": false,
+    "tags": [
+      "vocal",
+      "rock",
+      "karaoke-classic"
+    ],
+    "isActive": true,
+    "curationTitle": "Tears",
+    "curationArtist": "소찬휘",
+    "curationNotes": ""
+  }
+]
