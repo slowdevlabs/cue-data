@@ -1,0 +1,764 @@
+[
+  {
+    "id": "cue_2000s_0101",
+    "appleMusicId": "300657302",
+    "era": "2000s",
+    "title": "One More Time",
+    "artist": "쥬얼리",
+    "tags": [
+      "girl-group",
+      "dance"
+    ],
+    "status": "approved"
+  },
+  {
+    "id": "cue_2000s_0102",
+    "appleMusicId": "289033300",
+    "era": "2000s",
+    "title": "Tell Me",
+    "artist": "원더걸스",
+    "tags": [
+      "girl-group",
+      "iconic-intro"
+    ],
+    "status": "approved"
+  },
+  {
+    "id": "cue_2000s_0103",
+    "appleMusicId": "299804122",
+    "era": "2000s",
+    "title": "Nobody",
+    "artist": "원더걸스",
+    "tags": [
+      "girl-group",
+      "retro"
+    ],
+    "status": "approved"
+  },
+  {
+    "id": "cue_2000s_0104",
+    "appleMusicId": "854911644",
+    "era": "2000s",
+    "title": "Gee",
+    "artist": "소녀시대",
+    "tags": [
+      "girl-group",
+      "iconic-intro"
+    ],
+    "status": "approved"
+  },
+  {
+    "id": "cue_2000s_0105",
+    "appleMusicId": "854915055",
+    "era": "2000s",
+    "title": "소원을 말해봐",
+    "artist": "소녀시대",
+    "tags": [
+      "girl-group"
+    ],
+    "status": "approved"
+  },
+  {
+    "id": "cue_2000s_0106",
+    "appleMusicId": "1655107915",
+    "era": "2000s",
+    "title": "미쳤어",
+    "artist": "손담비",
+    "tags": [
+      "solo",
+      "dance"
+    ],
+    "status": "approved"
+  },
+  {
+    "id": "cue_2000s_0107",
+    "appleMusicId": "1688124068",
+    "era": "2000s",
+    "title": "U-Go-Girl",
+    "artist": "이효리",
+    "tags": [
+      "solo",
+      "dance"
+    ],
+    "status": "approved"
+  },
+  {
+    "id": "cue_2000s_0108",
+    "appleMusicId": "1330947216",
+    "era": "2000s",
+    "title": "거짓말",
+    "artist": "BIGBANG",
+    "tags": [
+      "boy-group",
+      "iconic-intro"
+    ],
+    "status": "approved"
+  },
+  {
+    "id": "cue_2000s_0109",
+    "appleMusicId": "1346470976",
+    "era": "2000s",
+    "title": "Haru Haru",
+    "artist": "BIGBANG",
+    "tags": [
+      "boy-group",
+      "ballad-dance"
+    ],
+    "status": "approved"
+  },
+  {
+    "id": "cue_2000s_0110",
+    "appleMusicId": "854890251",
+    "era": "2000s",
+    "title": "Sorry, Sorry",
+    "artist": "SUPER JUNIOR",
+    "tags": [
+      "boy-group",
+      "iconic-intro"
+    ],
+    "status": "approved"
+  },
+  {
+    "id": "cue_2000s_0111",
+    "appleMusicId": "1062469154",
+    "era": "2000s",
+    "title": "주문-MIROTIC",
+    "artist": "TVXQ!",
+    "tags": [
+      "boy-group"
+    ],
+    "status": "approved"
+  },
+  {
+    "id": "cue_2000s_0112",
+    "appleMusicId": "313380064",
+    "era": "2000s",
+    "title": "Again & Again",
+    "artist": "2PM",
+    "tags": [
+      "boy-group"
+    ],
+    "status": "approved"
+  },
+  {
+    "id": "cue_2000s_0113",
+    "appleMusicId": "1804699150",
+    "era": "2000s",
+    "title": "Abracadabra",
+    "artist": "Brown Eyed Girls",
+    "tags": [
+      "girl-group",
+      "iconic-intro"
+    ],
+    "status": "approved"
+  },
+  {
+    "id": "cue_2000s_0114",
+    "appleMusicId": "1339060468",
+    "era": "2000s",
+    "title": "Fire",
+    "artist": "2NE1",
+    "tags": [
+      "girl-group",
+      "debut"
+    ],
+    "status": "approved"
+  },
+  {
+    "id": "cue_2000s_0115",
+    "appleMusicId": "1339060469",
+    "era": "2000s",
+    "title": "I Don't Care",
+    "artist": "2NE1",
+    "tags": [
+      "girl-group"
+    ],
+    "status": "approved"
+  },
+  {
+    "id": "cue_2000s_0116",
+    "appleMusicId": "",
+    "era": "2000s",
+    "title": "No.1",
+    "artist": "BoA",
+    "tags": [
+      "solo",
+      "dance"
+    ],
+    "status": "review"
+  },
+  {
+    "id": "cue_2000s_0117",
+    "appleMusicId": "",
+    "era": "2000s",
+    "title": "Atlantis Princess",
+    "artist": "BoA",
+    "tags": [
+      "solo",
+      "dance"
+    ],
+    "status": "review"
+  },
+  {
+    "id": "cue_2000s_0118",
+    "appleMusicId": "",
+    "era": "2000s",
+    "title": "Valenti",
+    "artist": "BoA",
+    "tags": [
+      "solo",
+      "dance"
+    ],
+    "status": "review"
+  },
+  {
+    "id": "cue_2000s_0119",
+    "appleMusicId": "",
+    "era": "2000s",
+    "title": "My Name",
+    "artist": "BoA",
+    "tags": [
+      "solo",
+      "dance"
+    ],
+    "status": "review"
+  },
+  {
+    "id": "cue_2000s_0120",
+    "appleMusicId": "",
+    "era": "2000s",
+    "title": "Girls On Top",
+    "artist": "BoA",
+    "tags": [
+      "solo",
+      "dance"
+    ],
+    "status": "review"
+  },
+  {
+    "id": "cue_2000s_0121",
+    "appleMusicId": "",
+    "era": "2000s",
+    "title": "Hug",
+    "artist": "TVXQ!",
+    "tags": [
+      "boy-group",
+      "debut"
+    ],
+    "status": "review"
+  },
+  {
+    "id": "cue_2000s_0122",
+    "appleMusicId": "",
+    "era": "2000s",
+    "title": "Rising Sun",
+    "artist": "TVXQ!",
+    "tags": [
+      "boy-group",
+      "dance"
+    ],
+    "status": "review"
+  },
+  {
+    "id": "cue_2000s_0123",
+    "appleMusicId": "",
+    "era": "2000s",
+    "title": "O - Jung.Ban.Hap.",
+    "artist": "TVXQ!",
+    "tags": [
+      "boy-group",
+      "dance"
+    ],
+    "status": "review"
+  },
+  {
+    "id": "cue_2000s_0124",
+    "appleMusicId": "",
+    "era": "2000s",
+    "title": "Purple Line",
+    "artist": "TVXQ!",
+    "tags": [
+      "boy-group",
+      "dance"
+    ],
+    "status": "review"
+  },
+  {
+    "id": "cue_2000s_0125",
+    "appleMusicId": "",
+    "era": "2000s",
+    "title": "Wrong Number",
+    "artist": "TVXQ!",
+    "tags": [
+      "boy-group",
+      "dance"
+    ],
+    "status": "review"
+  },
+  {
+    "id": "cue_2000s_0126",
+    "appleMusicId": "",
+    "era": "2000s",
+    "title": "U",
+    "artist": "SUPER JUNIOR",
+    "tags": [
+      "boy-group",
+      "dance"
+    ],
+    "status": "review"
+  },
+  {
+    "id": "cue_2000s_0127",
+    "appleMusicId": "",
+    "era": "2000s",
+    "title": "Don't Don",
+    "artist": "SUPER JUNIOR",
+    "tags": [
+      "boy-group",
+      "dance"
+    ],
+    "status": "review"
+  },
+  {
+    "id": "cue_2000s_0128",
+    "appleMusicId": "",
+    "era": "2000s",
+    "title": "It's You",
+    "artist": "SUPER JUNIOR",
+    "tags": [
+      "boy-group"
+    ],
+    "status": "review"
+  },
+  {
+    "id": "cue_2000s_0129",
+    "appleMusicId": "",
+    "era": "2000s",
+    "title": "Replay",
+    "artist": "SHINee",
+    "tags": [
+      "boy-group",
+      "debut"
+    ],
+    "status": "review"
+  },
+  {
+    "id": "cue_2000s_0130",
+    "appleMusicId": "",
+    "era": "2000s",
+    "title": "Ring Ding Dong",
+    "artist": "SHINee",
+    "tags": [
+      "boy-group",
+      "iconic"
+    ],
+    "status": "review"
+  },
+  {
+    "id": "cue_2000s_0131",
+    "appleMusicId": "",
+    "era": "2000s",
+    "title": "Juliette",
+    "artist": "SHINee",
+    "tags": [
+      "boy-group"
+    ],
+    "status": "review"
+  },
+  {
+    "id": "cue_2000s_0132",
+    "appleMusicId": "",
+    "era": "2000s",
+    "title": "Heartbeat",
+    "artist": "2PM",
+    "tags": [
+      "boy-group",
+      "dance"
+    ],
+    "status": "review"
+  },
+  {
+    "id": "cue_2000s_0133",
+    "appleMusicId": "",
+    "era": "2000s",
+    "title": "I Hate You",
+    "artist": "2PM",
+    "tags": [
+      "boy-group",
+      "dance"
+    ],
+    "status": "review"
+  },
+  {
+    "id": "cue_2000s_0134",
+    "appleMusicId": "",
+    "era": "2000s",
+    "title": "U R Man",
+    "artist": "SS501",
+    "tags": [
+      "boy-group"
+    ],
+    "status": "review"
+  },
+  {
+    "id": "cue_2000s_0135",
+    "appleMusicId": "",
+    "era": "2000s",
+    "title": "Love Like This",
+    "artist": "SS501",
+    "tags": [
+      "boy-group"
+    ],
+    "status": "review"
+  },
+  {
+    "id": "cue_2000s_0136",
+    "appleMusicId": "",
+    "era": "2000s",
+    "title": "Rock U",
+    "artist": "KARA",
+    "tags": [
+      "girl-group"
+    ],
+    "status": "review"
+  },
+  {
+    "id": "cue_2000s_0137",
+    "appleMusicId": "",
+    "era": "2000s",
+    "title": "Honey",
+    "artist": "KARA",
+    "tags": [
+      "girl-group"
+    ],
+    "status": "review"
+  },
+  {
+    "id": "cue_2000s_0138",
+    "appleMusicId": "",
+    "era": "2000s",
+    "title": "Mister",
+    "artist": "KARA",
+    "tags": [
+      "girl-group",
+      "iconic"
+    ],
+    "status": "review"
+  },
+  {
+    "id": "cue_2000s_0139",
+    "appleMusicId": "",
+    "era": "2000s",
+    "title": "Hot Issue",
+    "artist": "4Minute",
+    "tags": [
+      "girl-group",
+      "debut"
+    ],
+    "status": "review"
+  },
+  {
+    "id": "cue_2000s_0140",
+    "appleMusicId": "",
+    "era": "2000s",
+    "title": "Muzik",
+    "artist": "4Minute",
+    "tags": [
+      "girl-group"
+    ],
+    "status": "review"
+  },
+  {
+    "id": "cue_2000s_0141",
+    "appleMusicId": "",
+    "era": "2000s",
+    "title": "Bo Peep Bo Peep",
+    "artist": "T-ARA",
+    "tags": [
+      "girl-group"
+    ],
+    "status": "review"
+  },
+  {
+    "id": "cue_2000s_0142",
+    "appleMusicId": "",
+    "era": "2000s",
+    "title": "TTL (Time To Love)",
+    "artist": "T-ARA",
+    "tags": [
+      "girl-group"
+    ],
+    "status": "review"
+  },
+  {
+    "id": "cue_2000s_0143",
+    "appleMusicId": "",
+    "era": "2000s",
+    "title": "Sign",
+    "artist": "Brown Eyed Girls",
+    "tags": [
+      "girl-group"
+    ],
+    "status": "review"
+  },
+  {
+    "id": "cue_2000s_0144",
+    "appleMusicId": "",
+    "era": "2000s",
+    "title": "Diva",
+    "artist": "After School",
+    "tags": [
+      "girl-group"
+    ],
+    "status": "review"
+  },
+  {
+    "id": "cue_2000s_0145",
+    "appleMusicId": "",
+    "era": "2000s",
+    "title": "Because of You",
+    "artist": "After School",
+    "tags": [
+      "girl-group"
+    ],
+    "status": "review"
+  },
+  {
+    "id": "cue_2000s_0146",
+    "appleMusicId": "",
+    "era": "2000s",
+    "title": "Heartbreaker",
+    "artist": "G-DRAGON",
+    "tags": [
+      "solo",
+      "dance"
+    ],
+    "status": "review"
+  },
+  {
+    "id": "cue_2000s_0147",
+    "appleMusicId": "",
+    "era": "2000s",
+    "title": "Breathe",
+    "artist": "G-DRAGON",
+    "tags": [
+      "solo"
+    ],
+    "status": "review"
+  },
+  {
+    "id": "cue_2000s_0148",
+    "appleMusicId": "",
+    "era": "2000s",
+    "title": "Only Look At Me",
+    "artist": "TAEYANG",
+    "tags": [
+      "solo",
+      "rnb"
+    ],
+    "status": "review"
+  },
+  {
+    "id": "cue_2000s_0149",
+    "appleMusicId": "",
+    "era": "2000s",
+    "title": "Wedding Dress",
+    "artist": "TAEYANG",
+    "tags": [
+      "solo",
+      "rnb"
+    ],
+    "status": "review"
+  },
+  {
+    "id": "cue_2000s_0150",
+    "appleMusicId": "",
+    "era": "2000s",
+    "title": "It's Raining",
+    "artist": "RAIN",
+    "tags": [
+      "solo",
+      "dance"
+    ],
+    "status": "review"
+  },
+  {
+    "id": "cue_2000s_0151",
+    "appleMusicId": "",
+    "era": "2000s",
+    "title": "Rainism",
+    "artist": "RAIN",
+    "tags": [
+      "solo",
+      "dance"
+    ],
+    "status": "review"
+  },
+  {
+    "id": "cue_2000s_0152",
+    "appleMusicId": "",
+    "era": "2000s",
+    "title": "How to Avoid the Sun",
+    "artist": "RAIN",
+    "tags": [
+      "solo"
+    ],
+    "status": "review"
+  },
+  {
+    "id": "cue_2000s_0153",
+    "appleMusicId": "",
+    "era": "2000s",
+    "title": "10 Minutes",
+    "artist": "Lee Hyori",
+    "tags": [
+      "solo",
+      "dance"
+    ],
+    "status": "review"
+  },
+  {
+    "id": "cue_2000s_0154",
+    "appleMusicId": "",
+    "era": "2000s",
+    "title": "Passion",
+    "artist": "SE7EN",
+    "tags": [
+      "solo",
+      "dance"
+    ],
+    "status": "review"
+  },
+  {
+    "id": "cue_2000s_0155",
+    "appleMusicId": "",
+    "era": "2000s",
+    "title": "Come Back to Me",
+    "artist": "SE7EN",
+    "tags": [
+      "solo",
+      "rnb"
+    ],
+    "status": "review"
+  },
+  {
+    "id": "cue_2000s_0156",
+    "appleMusicId": "",
+    "era": "2000s",
+    "title": "Fly",
+    "artist": "Epik High",
+    "tags": [
+      "hip-hop",
+      "group"
+    ],
+    "status": "review"
+  },
+  {
+    "id": "cue_2000s_0157",
+    "appleMusicId": "",
+    "era": "2000s",
+    "title": "Love Love Love",
+    "artist": "Epik High",
+    "tags": [
+      "hip-hop",
+      "group"
+    ],
+    "status": "review"
+  },
+  {
+    "id": "cue_2000s_0158",
+    "appleMusicId": "",
+    "era": "2000s",
+    "title": "Circus",
+    "artist": "MC Mong",
+    "tags": [
+      "hip-hop",
+      "solo"
+    ],
+    "status": "review"
+  },
+  {
+    "id": "cue_2000s_0159",
+    "appleMusicId": "",
+    "era": "2000s",
+    "title": "겁쟁이",
+    "artist": "Buzz",
+    "tags": [
+      "band",
+      "rock"
+    ],
+    "status": "review"
+  },
+  {
+    "id": "cue_2000s_0160",
+    "appleMusicId": "",
+    "era": "2000s",
+    "title": "나에게로 떠나는 여행",
+    "artist": "Buzz",
+    "tags": [
+      "band",
+      "rock"
+    ],
+    "status": "review"
+  },
+  {
+    "id": "cue_2000s_0161",
+    "appleMusicId": "",
+    "era": "2000s",
+    "title": "Timeless",
+    "artist": "SG Wannabe",
+    "tags": [
+      "vocal",
+      "ballad"
+    ],
+    "status": "review"
+  },
+  {
+    "id": "cue_2000s_0162",
+    "appleMusicId": "",
+    "era": "2000s",
+    "title": "죄와 벌",
+    "artist": "SG Wannabe",
+    "tags": [
+      "vocal",
+      "ballad"
+    ],
+    "status": "review"
+  },
+  {
+    "id": "cue_2000s_0163",
+    "appleMusicId": "",
+    "era": "2000s",
+    "title": "사랑했나봐",
+    "artist": "YB",
+    "tags": [
+      "band",
+      "rock"
+    ],
+    "status": "review"
+  },
+  {
+    "id": "cue_2000s_0164",
+    "appleMusicId": "",
+    "era": "2000s",
+    "title": "Loveholic",
+    "artist": "Loveholic",
+    "tags": [
+      "band",
+      "rock"
+    ],
+    "status": "review"
+  },
+  {
+    "id": "cue_2000s_0165",
+    "appleMusicId": "",
+    "era": "2000s",
+    "title": "남자를 몰라",
+    "artist": "Buzz",
+    "tags": [
+      "band",
+      "rock"
+    ],
+    "status": "review"
+  }
+]

@@ -1,0 +1,783 @@
+[
+  {
+    "id": "cue_2020s_0301",
+    "appleMusicId": "1597024424",
+    "era": "2020s",
+    "title": "Dynamite",
+    "artist": "BTS",
+    "tags": [
+      "boy-group",
+      "global-hit"
+    ],
+    "status": "approved"
+  },
+  {
+    "id": "cue_2020s_0302",
+    "appleMusicId": "1519364407",
+    "era": "2020s",
+    "title": "How You Like That",
+    "artist": "BLACKPINK",
+    "tags": [
+      "girl-group",
+      "global-hit"
+    ],
+    "status": "approved"
+  },
+  {
+    "id": "cue_2020s_0303",
+    "appleMusicId": "1567326688",
+    "era": "2020s",
+    "title": "Next Level",
+    "artist": "aespa",
+    "tags": [
+      "girl-group",
+      "iconic-intro"
+    ],
+    "status": "approved"
+  },
+  {
+    "id": "cue_2020s_0304",
+    "appleMusicId": "1587844525",
+    "era": "2020s",
+    "title": "Savage",
+    "artist": "aespa",
+    "tags": [
+      "girl-group"
+    ],
+    "status": "approved"
+  },
+  {
+    "id": "cue_2020s_0305",
+    "appleMusicId": "1597404252",
+    "era": "2020s",
+    "title": "ELEVEN",
+    "artist": "IVE",
+    "tags": [
+      "girl-group",
+      "debut"
+    ],
+    "status": "approved"
+  },
+  {
+    "id": "cue_2020s_0306",
+    "appleMusicId": "1616804152",
+    "era": "2020s",
+    "title": "LOVE DIVE",
+    "artist": "IVE",
+    "tags": [
+      "girl-group"
+    ],
+    "status": "approved"
+  },
+  {
+    "id": "cue_2020s_0307",
+    "appleMusicId": "1640202552",
+    "era": "2020s",
+    "title": "After LIKE",
+    "artist": "IVE",
+    "tags": [
+      "girl-group"
+    ],
+    "status": "approved"
+  },
+  {
+    "id": "cue_2020s_0308",
+    "appleMusicId": "1613139922",
+    "era": "2020s",
+    "title": "TOMBOY",
+    "artist": "(G)I-DLE",
+    "tags": [
+      "girl-group"
+    ],
+    "status": "approved"
+  },
+  {
+    "id": "cue_2020s_0309",
+    "appleMusicId": "1687024225",
+    "era": "2020s",
+    "title": "Queencard",
+    "artist": "(G)I-DLE",
+    "tags": [
+      "girl-group"
+    ],
+    "status": "approved"
+  },
+  {
+    "id": "cue_2020s_0310",
+    "appleMusicId": "1635469851",
+    "era": "2020s",
+    "title": "Hype Boy",
+    "artist": "NewJeans",
+    "tags": [
+      "girl-group",
+      "debut-era"
+    ],
+    "status": "approved"
+  },
+  {
+    "id": "cue_2020s_0311",
+    "appleMusicId": "1635469694",
+    "era": "2020s",
+    "title": "Attention",
+    "artist": "NewJeans",
+    "tags": [
+      "girl-group",
+      "debut"
+    ],
+    "status": "approved"
+  },
+  {
+    "id": "cue_2020s_0312",
+    "appleMusicId": "1657231962",
+    "era": "2020s",
+    "title": "Ditto",
+    "artist": "NewJeans",
+    "tags": [
+      "girl-group"
+    ],
+    "status": "approved"
+  },
+  {
+    "id": "cue_2020s_0313",
+    "appleMusicId": "1659513445",
+    "era": "2020s",
+    "title": "OMG",
+    "artist": "NewJeans",
+    "tags": [
+      "girl-group"
+    ],
+    "status": "approved"
+  },
+  {
+    "id": "cue_2020s_0314",
+    "appleMusicId": "1647830390",
+    "era": "2020s",
+    "title": "ANTIFRAGILE",
+    "artist": "LE SSERAFIM",
+    "tags": [
+      "girl-group"
+    ],
+    "status": "approved"
+  },
+  {
+    "id": "cue_2020s_0315",
+    "appleMusicId": "1682502472",
+    "era": "2020s",
+    "title": "UNFORGIVEN",
+    "artist": "LE SSERAFIM",
+    "tags": [
+      "girl-group"
+    ],
+    "status": "approved"
+  },
+  {
+    "id": "cue_2020s_0316",
+    "appleMusicId": "1692686518",
+    "era": "2020s",
+    "title": "Super Shy",
+    "artist": "NewJeans",
+    "tags": [
+      "girl-group"
+    ],
+    "status": "approved"
+  },
+  {
+    "id": "cue_2020s_0317",
+    "appleMusicId": "1680865730",
+    "era": "2020s",
+    "title": "I AM",
+    "artist": "IVE",
+    "tags": [
+      "girl-group"
+    ],
+    "status": "approved"
+  },
+  {
+    "id": "cue_2020s_0318",
+    "appleMusicId": "1745281749",
+    "era": "2020s",
+    "title": "Supernova",
+    "artist": "aespa",
+    "tags": [
+      "girl-group"
+    ],
+    "status": "approved"
+  },
+  {
+    "id": "cue_2020s_0319",
+    "appleMusicId": "1715939931",
+    "era": "2020s",
+    "title": "Drama",
+    "artist": "aespa",
+    "tags": [
+      "girl-group"
+    ],
+    "status": "approved"
+  },
+  {
+    "id": "cue_2020s_0320",
+    "appleMusicId": "1734500896",
+    "era": "2020s",
+    "title": "Magnetic",
+    "artist": "ILLIT",
+    "tags": [
+      "girl-group",
+      "debut"
+    ],
+    "status": "approved"
+  },
+  {
+    "id": "cue_2020s_0321",
+    "appleMusicId": "",
+    "era": "2020s",
+    "title": "Butter",
+    "artist": "BTS",
+    "tags": [
+      "boy-group",
+      "global-hit"
+    ],
+    "status": "review"
+  },
+  {
+    "id": "cue_2020s_0322",
+    "appleMusicId": "",
+    "era": "2020s",
+    "title": "Life Goes On",
+    "artist": "BTS",
+    "tags": [
+      "boy-group"
+    ],
+    "status": "review"
+  },
+  {
+    "id": "cue_2020s_0323",
+    "appleMusicId": "",
+    "era": "2020s",
+    "title": "Permission to Dance",
+    "artist": "BTS",
+    "tags": [
+      "boy-group"
+    ],
+    "status": "review"
+  },
+  {
+    "id": "cue_2020s_0324",
+    "appleMusicId": "",
+    "era": "2020s",
+    "title": "Yet To Come",
+    "artist": "BTS",
+    "tags": [
+      "boy-group"
+    ],
+    "status": "review"
+  },
+  {
+    "id": "cue_2020s_0325",
+    "appleMusicId": "",
+    "era": "2020s",
+    "title": "Seven",
+    "artist": "Jung Kook",
+    "tags": [
+      "solo",
+      "global-hit"
+    ],
+    "status": "review"
+  },
+  {
+    "id": "cue_2020s_0326",
+    "appleMusicId": "",
+    "era": "2020s",
+    "title": "Standing Next to You",
+    "artist": "Jung Kook",
+    "tags": [
+      "solo"
+    ],
+    "status": "review"
+  },
+  {
+    "id": "cue_2020s_0327",
+    "appleMusicId": "",
+    "era": "2020s",
+    "title": "Lovesick Girls",
+    "artist": "BLACKPINK",
+    "tags": [
+      "girl-group"
+    ],
+    "status": "review"
+  },
+  {
+    "id": "cue_2020s_0328",
+    "appleMusicId": "",
+    "era": "2020s",
+    "title": "Pink Venom",
+    "artist": "BLACKPINK",
+    "tags": [
+      "girl-group"
+    ],
+    "status": "review"
+  },
+  {
+    "id": "cue_2020s_0329",
+    "appleMusicId": "",
+    "era": "2020s",
+    "title": "Shut Down",
+    "artist": "BLACKPINK",
+    "tags": [
+      "girl-group"
+    ],
+    "status": "review"
+  },
+  {
+    "id": "cue_2020s_0330",
+    "appleMusicId": "",
+    "era": "2020s",
+    "title": "On The Ground",
+    "artist": "ROSÉ",
+    "tags": [
+      "solo"
+    ],
+    "status": "review"
+  },
+  {
+    "id": "cue_2020s_0331",
+    "appleMusicId": "",
+    "era": "2020s",
+    "title": "LALISA",
+    "artist": "LISA",
+    "tags": [
+      "solo"
+    ],
+    "status": "review"
+  },
+  {
+    "id": "cue_2020s_0332",
+    "appleMusicId": "",
+    "era": "2020s",
+    "title": "MONEY",
+    "artist": "LISA",
+    "tags": [
+      "solo"
+    ],
+    "status": "review"
+  },
+  {
+    "id": "cue_2020s_0333",
+    "appleMusicId": "",
+    "era": "2020s",
+    "title": "FLOWER",
+    "artist": "JISOO",
+    "tags": [
+      "solo"
+    ],
+    "status": "review"
+  },
+  {
+    "id": "cue_2020s_0334",
+    "appleMusicId": "",
+    "era": "2020s",
+    "title": "Cookie",
+    "artist": "NewJeans",
+    "tags": [
+      "girl-group"
+    ],
+    "status": "review"
+  },
+  {
+    "id": "cue_2020s_0335",
+    "appleMusicId": "",
+    "era": "2020s",
+    "title": "ETA",
+    "artist": "NewJeans",
+    "tags": [
+      "girl-group"
+    ],
+    "status": "review"
+  },
+  {
+    "id": "cue_2020s_0336",
+    "appleMusicId": "",
+    "era": "2020s",
+    "title": "New Jeans",
+    "artist": "NewJeans",
+    "tags": [
+      "girl-group"
+    ],
+    "status": "review"
+  },
+  {
+    "id": "cue_2020s_0337",
+    "appleMusicId": "",
+    "era": "2020s",
+    "title": "Kitsch",
+    "artist": "IVE",
+    "tags": [
+      "girl-group"
+    ],
+    "status": "review"
+  },
+  {
+    "id": "cue_2020s_0338",
+    "appleMusicId": "",
+    "era": "2020s",
+    "title": "Baddie",
+    "artist": "IVE",
+    "tags": [
+      "girl-group"
+    ],
+    "status": "review"
+  },
+  {
+    "id": "cue_2020s_0339",
+    "appleMusicId": "",
+    "era": "2020s",
+    "title": "Either Way",
+    "artist": "IVE",
+    "tags": [
+      "girl-group"
+    ],
+    "status": "review"
+  },
+  {
+    "id": "cue_2020s_0340",
+    "appleMusicId": "",
+    "era": "2020s",
+    "title": "HEYA",
+    "artist": "IVE",
+    "tags": [
+      "girl-group"
+    ],
+    "status": "review"
+  },
+  {
+    "id": "cue_2020s_0341",
+    "appleMusicId": "",
+    "era": "2020s",
+    "title": "Accendio",
+    "artist": "IVE",
+    "tags": [
+      "girl-group"
+    ],
+    "status": "review"
+  },
+  {
+    "id": "cue_2020s_0342",
+    "appleMusicId": "",
+    "era": "2020s",
+    "title": "Spicy",
+    "artist": "aespa",
+    "tags": [
+      "girl-group"
+    ],
+    "status": "review"
+  },
+  {
+    "id": "cue_2020s_0343",
+    "appleMusicId": "",
+    "era": "2020s",
+    "title": "Girls",
+    "artist": "aespa",
+    "tags": [
+      "girl-group"
+    ],
+    "status": "review"
+  },
+  {
+    "id": "cue_2020s_0344",
+    "appleMusicId": "",
+    "era": "2020s",
+    "title": "Armageddon",
+    "artist": "aespa",
+    "tags": [
+      "girl-group"
+    ],
+    "status": "review"
+  },
+  {
+    "id": "cue_2020s_0345",
+    "appleMusicId": "",
+    "era": "2020s",
+    "title": "Whiplash",
+    "artist": "aespa",
+    "tags": [
+      "girl-group"
+    ],
+    "status": "review"
+  },
+  {
+    "id": "cue_2020s_0346",
+    "appleMusicId": "",
+    "era": "2020s",
+    "title": "FEARLESS",
+    "artist": "LE SSERAFIM",
+    "tags": [
+      "girl-group",
+      "debut"
+    ],
+    "status": "review"
+  },
+  {
+    "id": "cue_2020s_0347",
+    "appleMusicId": "",
+    "era": "2020s",
+    "title": "Eve, Psyche & The Bluebeard's wife",
+    "artist": "LE SSERAFIM",
+    "tags": [
+      "girl-group"
+    ],
+    "status": "review"
+  },
+  {
+    "id": "cue_2020s_0348",
+    "appleMusicId": "",
+    "era": "2020s",
+    "title": "Perfect Night",
+    "artist": "LE SSERAFIM",
+    "tags": [
+      "girl-group"
+    ],
+    "status": "review"
+  },
+  {
+    "id": "cue_2020s_0349",
+    "appleMusicId": "",
+    "era": "2020s",
+    "title": "EASY",
+    "artist": "LE SSERAFIM",
+    "tags": [
+      "girl-group"
+    ],
+    "status": "review"
+  },
+  {
+    "id": "cue_2020s_0350",
+    "appleMusicId": "",
+    "era": "2020s",
+    "title": "Smart",
+    "artist": "LE SSERAFIM",
+    "tags": [
+      "girl-group"
+    ],
+    "status": "review"
+  },
+  {
+    "id": "cue_2020s_0351",
+    "appleMusicId": "",
+    "era": "2020s",
+    "title": "Nxde",
+    "artist": "(G)I-DLE",
+    "tags": [
+      "girl-group"
+    ],
+    "status": "review"
+  },
+  {
+    "id": "cue_2020s_0352",
+    "appleMusicId": "",
+    "era": "2020s",
+    "title": "Allergy",
+    "artist": "(G)I-DLE",
+    "tags": [
+      "girl-group"
+    ],
+    "status": "review"
+  },
+  {
+    "id": "cue_2020s_0353",
+    "appleMusicId": "",
+    "era": "2020s",
+    "title": "Super Lady",
+    "artist": "(G)I-DLE",
+    "tags": [
+      "girl-group"
+    ],
+    "status": "review"
+  },
+  {
+    "id": "cue_2020s_0354",
+    "appleMusicId": "",
+    "era": "2020s",
+    "title": "Fate",
+    "artist": "(G)I-DLE",
+    "tags": [
+      "girl-group"
+    ],
+    "status": "review"
+  },
+  {
+    "id": "cue_2020s_0355",
+    "appleMusicId": "",
+    "era": "2020s",
+    "title": "Wife",
+    "artist": "(G)I-DLE",
+    "tags": [
+      "girl-group"
+    ],
+    "status": "review"
+  },
+  {
+    "id": "cue_2020s_0356",
+    "appleMusicId": "",
+    "era": "2020s",
+    "title": "WANNABE",
+    "artist": "ITZY",
+    "tags": [
+      "girl-group"
+    ],
+    "status": "review"
+  },
+  {
+    "id": "cue_2020s_0357",
+    "appleMusicId": "",
+    "era": "2020s",
+    "title": "Not Shy",
+    "artist": "ITZY",
+    "tags": [
+      "girl-group"
+    ],
+    "status": "review"
+  },
+  {
+    "id": "cue_2020s_0358",
+    "appleMusicId": "",
+    "era": "2020s",
+    "title": "In the morning",
+    "artist": "ITZY",
+    "tags": [
+      "girl-group"
+    ],
+    "status": "review"
+  },
+  {
+    "id": "cue_2020s_0359",
+    "appleMusicId": "",
+    "era": "2020s",
+    "title": "SNEAKERS",
+    "artist": "ITZY",
+    "tags": [
+      "girl-group"
+    ],
+    "status": "review"
+  },
+  {
+    "id": "cue_2020s_0360",
+    "appleMusicId": "",
+    "era": "2020s",
+    "title": "CAKE",
+    "artist": "ITZY",
+    "tags": [
+      "girl-group"
+    ],
+    "status": "review"
+  },
+  {
+    "id": "cue_2020s_0361",
+    "appleMusicId": "",
+    "era": "2020s",
+    "title": "O.O",
+    "artist": "NMIXX",
+    "tags": [
+      "girl-group",
+      "debut"
+    ],
+    "status": "review"
+  },
+  {
+    "id": "cue_2020s_0362",
+    "appleMusicId": "",
+    "era": "2020s",
+    "title": "DICE",
+    "artist": "NMIXX",
+    "tags": [
+      "girl-group"
+    ],
+    "status": "review"
+  },
+  {
+    "id": "cue_2020s_0363",
+    "appleMusicId": "",
+    "era": "2020s",
+    "title": "Love Me Like This",
+    "artist": "NMIXX",
+    "tags": [
+      "girl-group"
+    ],
+    "status": "review"
+  },
+  {
+    "id": "cue_2020s_0364",
+    "appleMusicId": "",
+    "era": "2020s",
+    "title": "ASAP",
+    "artist": "STAYC",
+    "tags": [
+      "girl-group"
+    ],
+    "status": "review"
+  },
+  {
+    "id": "cue_2020s_0365",
+    "appleMusicId": "",
+    "era": "2020s",
+    "title": "STEREOTYPE",
+    "artist": "STAYC",
+    "tags": [
+      "girl-group"
+    ],
+    "status": "review"
+  },
+  {
+    "id": "cue_2020s_0366",
+    "appleMusicId": "",
+    "era": "2020s",
+    "title": "Teddy Bear",
+    "artist": "STAYC",
+    "tags": [
+      "girl-group"
+    ],
+    "status": "review"
+  },
+  {
+    "id": "cue_2020s_0367",
+    "appleMusicId": "",
+    "era": "2020s",
+    "title": "God's Menu",
+    "artist": "Stray Kids",
+    "tags": [
+      "boy-group"
+    ],
+    "status": "review"
+  },
+  {
+    "id": "cue_2020s_0368",
+    "appleMusicId": "",
+    "era": "2020s",
+    "title": "MANIAC",
+    "artist": "Stray Kids",
+    "tags": [
+      "boy-group"
+    ],
+    "status": "review"
+  },
+  {
+    "id": "cue_2020s_0369",
+    "appleMusicId": "",
+    "era": "2020s",
+    "title": "S-Class",
+    "artist": "Stray Kids",
+    "tags": [
+      "boy-group"
+    ],
+    "status": "review"
+  },
+  {
+    "id": "cue_2020s_0370",
+    "appleMusicId": "",
+    "era": "2020s",
+    "title": "Bite Me",
+    "artist": "ENHYPEN",
+    "tags": [
+      "boy-group"
+    ],
+    "status": "review"
+  }
+]

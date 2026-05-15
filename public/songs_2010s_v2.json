@@ -1,0 +1,794 @@
+[
+  {
+    "id": "cue_2010s_0201",
+    "appleMusicId": "450789302",
+    "era": "2010s",
+    "title": "Bad Girl Good Girl",
+    "artist": "miss A",
+    "tags": [
+      "girl-group",
+      "debut"
+    ],
+    "status": "approved"
+  },
+  {
+    "id": "cue_2010s_0202",
+    "appleMusicId": "409076748",
+    "era": "2010s",
+    "title": "Good Day",
+    "artist": "IU",
+    "tags": [
+      "solo",
+      "vocal"
+    ],
+    "status": "approved"
+  },
+  {
+    "id": "cue_2010s_0203",
+    "appleMusicId": "1338689927",
+    "era": "2010s",
+    "title": "I Am the Best",
+    "artist": "2NE1",
+    "tags": [
+      "girl-group",
+      "iconic-intro"
+    ],
+    "status": "approved"
+  },
+  {
+    "id": "cue_2010s_0204",
+    "appleMusicId": "1337452979",
+    "era": "2010s",
+    "title": "Fantastic Baby",
+    "artist": "BIGBANG",
+    "tags": [
+      "boy-group",
+      "iconic-intro"
+    ],
+    "status": "approved"
+  },
+  {
+    "id": "cue_2010s_0205",
+    "appleMusicId": "1339074799",
+    "era": "2010s",
+    "title": "Gangnam Style",
+    "artist": "PSY",
+    "tags": [
+      "solo",
+      "global-hit"
+    ],
+    "status": "approved"
+  },
+  {
+    "id": "cue_2010s_0206",
+    "appleMusicId": "854908245",
+    "era": "2010s",
+    "title": "Growl",
+    "artist": "EXO",
+    "tags": [
+      "boy-group"
+    ],
+    "status": "approved"
+  },
+  {
+    "id": "cue_2010s_0207",
+    "appleMusicId": "994425114",
+    "era": "2010s",
+    "title": "View",
+    "artist": "SHINee",
+    "tags": [
+      "boy-group",
+      "2nd-gen",
+      "summer"
+    ],
+    "status": "approved"
+  },
+  {
+    "id": "cue_2010s_0208",
+    "appleMusicId": "854855933",
+    "era": "2010s",
+    "title": "Mr. Chu",
+    "artist": "Apink",
+    "tags": [
+      "girl-group"
+    ],
+    "status": "approved"
+  },
+  {
+    "id": "cue_2010s_0209",
+    "appleMusicId": "1453486569",
+    "era": "2010s",
+    "title": "Something",
+    "artist": "Girl's Day",
+    "tags": [
+      "girl-group"
+    ],
+    "status": "approved"
+  },
+  {
+    "id": "cue_2010s_0210",
+    "appleMusicId": "901251398",
+    "era": "2010s",
+    "title": "Touch My Body",
+    "artist": "SISTAR",
+    "tags": [
+      "girl-group",
+      "summer"
+    ],
+    "status": "approved"
+  },
+  {
+    "id": "cue_2010s_0211",
+    "appleMusicId": "913346311",
+    "era": "2010s",
+    "title": "Up & Down",
+    "artist": "EXID",
+    "tags": [
+      "girl-group"
+    ],
+    "status": "approved"
+  },
+  {
+    "id": "cue_2010s_0212",
+    "appleMusicId": "1107529253",
+    "era": "2010s",
+    "title": "Cheer Up",
+    "artist": "TWICE",
+    "tags": [
+      "girl-group"
+    ],
+    "status": "approved"
+  },
+  {
+    "id": "cue_2010s_0213",
+    "appleMusicId": "1168570286",
+    "era": "2010s",
+    "title": "TT",
+    "artist": "TWICE",
+    "tags": [
+      "girl-group",
+      "iconic"
+    ],
+    "status": "approved"
+  },
+  {
+    "id": "cue_2010s_0214",
+    "appleMusicId": "1256504651",
+    "era": "2010s",
+    "title": "Red Flavor",
+    "artist": "Red Velvet",
+    "tags": [
+      "girl-group",
+      "summer"
+    ],
+    "status": "approved"
+  },
+  {
+    "id": "cue_2010s_0215",
+    "appleMusicId": "1598730623",
+    "era": "2010s",
+    "title": "DNA",
+    "artist": "BTS",
+    "tags": [
+      "boy-group",
+      "global-hit"
+    ],
+    "status": "approved"
+  },
+  {
+    "id": "cue_2010s_0216",
+    "appleMusicId": "1596529381",
+    "era": "2010s",
+    "title": "Spring Day",
+    "artist": "BTS",
+    "tags": [
+      "boy-group",
+      "ballad"
+    ],
+    "status": "approved"
+  },
+  {
+    "id": "cue_2010s_0217",
+    "appleMusicId": "1398185834",
+    "era": "2010s",
+    "title": "DDU-DU DDU-DU",
+    "artist": "BLACKPINK",
+    "tags": [
+      "girl-group",
+      "global-hit"
+    ],
+    "status": "approved"
+  },
+  {
+    "id": "cue_2010s_0218",
+    "appleMusicId": "1339623399",
+    "era": "2010s",
+    "title": "LOVE SCENARIO",
+    "artist": "iKON",
+    "tags": [
+      "boy-group"
+    ],
+    "status": "approved"
+  },
+  {
+    "id": "cue_2010s_0219",
+    "appleMusicId": "1330921814",
+    "era": "2010s",
+    "title": "BBoom BBoom",
+    "artist": "MOMOLAND",
+    "tags": [
+      "girl-group"
+    ],
+    "status": "approved"
+  },
+  {
+    "id": "cue_2010s_0220",
+    "appleMusicId": "1491888506",
+    "era": "2010s",
+    "title": "Psycho",
+    "artist": "Red Velvet",
+    "tags": [
+      "girl-group"
+    ],
+    "status": "approved"
+  },
+  {
+    "id": "cue_2010s_0221",
+    "appleMusicId": "",
+    "era": "2010s",
+    "title": "Oh!",
+    "artist": "소녀시대",
+    "tags": [
+      "girl-group"
+    ],
+    "status": "review"
+  },
+  {
+    "id": "cue_2010s_0222",
+    "appleMusicId": "",
+    "era": "2010s",
+    "title": "The Boys",
+    "artist": "소녀시대",
+    "tags": [
+      "girl-group"
+    ],
+    "status": "review"
+  },
+  {
+    "id": "cue_2010s_0223",
+    "appleMusicId": "",
+    "era": "2010s",
+    "title": "I Got a Boy",
+    "artist": "소녀시대",
+    "tags": [
+      "girl-group"
+    ],
+    "status": "review"
+  },
+  {
+    "id": "cue_2010s_0224",
+    "appleMusicId": "",
+    "era": "2010s",
+    "title": "Call Me Baby",
+    "artist": "EXO",
+    "tags": [
+      "boy-group"
+    ],
+    "status": "review"
+  },
+  {
+    "id": "cue_2010s_0225",
+    "appleMusicId": "",
+    "era": "2010s",
+    "title": "Monster",
+    "artist": "EXO",
+    "tags": [
+      "boy-group"
+    ],
+    "status": "review"
+  },
+  {
+    "id": "cue_2010s_0226",
+    "appleMusicId": "",
+    "era": "2010s",
+    "title": "Love Shot",
+    "artist": "EXO",
+    "tags": [
+      "boy-group"
+    ],
+    "status": "review"
+  },
+  {
+    "id": "cue_2010s_0227",
+    "appleMusicId": "",
+    "era": "2010s",
+    "title": "Ko Ko Bop",
+    "artist": "EXO",
+    "tags": [
+      "boy-group"
+    ],
+    "status": "review"
+  },
+  {
+    "id": "cue_2010s_0228",
+    "appleMusicId": "",
+    "era": "2010s",
+    "title": "Fire",
+    "artist": "BTS",
+    "tags": [
+      "boy-group"
+    ],
+    "status": "review"
+  },
+  {
+    "id": "cue_2010s_0229",
+    "appleMusicId": "",
+    "era": "2010s",
+    "title": "Blood Sweat & Tears",
+    "artist": "BTS",
+    "tags": [
+      "boy-group"
+    ],
+    "status": "review"
+  },
+  {
+    "id": "cue_2010s_0230",
+    "appleMusicId": "",
+    "era": "2010s",
+    "title": "Fake Love",
+    "artist": "BTS",
+    "tags": [
+      "boy-group"
+    ],
+    "status": "review"
+  },
+  {
+    "id": "cue_2010s_0231",
+    "appleMusicId": "",
+    "era": "2010s",
+    "title": "IDOL",
+    "artist": "BTS",
+    "tags": [
+      "boy-group"
+    ],
+    "status": "review"
+  },
+  {
+    "id": "cue_2010s_0232",
+    "appleMusicId": "",
+    "era": "2010s",
+    "title": "Boy With Luv",
+    "artist": "BTS",
+    "tags": [
+      "boy-group",
+      "global-hit"
+    ],
+    "status": "review"
+  },
+  {
+    "id": "cue_2010s_0233",
+    "appleMusicId": "",
+    "era": "2010s",
+    "title": "BOOMBAYAH",
+    "artist": "BLACKPINK",
+    "tags": [
+      "girl-group",
+      "debut"
+    ],
+    "status": "review"
+  },
+  {
+    "id": "cue_2010s_0234",
+    "appleMusicId": "",
+    "era": "2010s",
+    "title": "WHISTLE",
+    "artist": "BLACKPINK",
+    "tags": [
+      "girl-group",
+      "debut"
+    ],
+    "status": "review"
+  },
+  {
+    "id": "cue_2010s_0235",
+    "appleMusicId": "",
+    "era": "2010s",
+    "title": "Playing With Fire",
+    "artist": "BLACKPINK",
+    "tags": [
+      "girl-group"
+    ],
+    "status": "review"
+  },
+  {
+    "id": "cue_2010s_0236",
+    "appleMusicId": "",
+    "era": "2010s",
+    "title": "As If It's Your Last",
+    "artist": "BLACKPINK",
+    "tags": [
+      "girl-group"
+    ],
+    "status": "review"
+  },
+  {
+    "id": "cue_2010s_0237",
+    "appleMusicId": "",
+    "era": "2010s",
+    "title": "Kill This Love",
+    "artist": "BLACKPINK",
+    "tags": [
+      "girl-group"
+    ],
+    "status": "review"
+  },
+  {
+    "id": "cue_2010s_0238",
+    "appleMusicId": "",
+    "era": "2010s",
+    "title": "Like OOH-AHH",
+    "artist": "TWICE",
+    "tags": [
+      "girl-group",
+      "debut"
+    ],
+    "status": "review"
+  },
+  {
+    "id": "cue_2010s_0239",
+    "appleMusicId": "",
+    "era": "2010s",
+    "title": "LIKEY",
+    "artist": "TWICE",
+    "tags": [
+      "girl-group"
+    ],
+    "status": "review"
+  },
+  {
+    "id": "cue_2010s_0240",
+    "appleMusicId": "",
+    "era": "2010s",
+    "title": "What is Love?",
+    "artist": "TWICE",
+    "tags": [
+      "girl-group"
+    ],
+    "status": "review"
+  },
+  {
+    "id": "cue_2010s_0241",
+    "appleMusicId": "",
+    "era": "2010s",
+    "title": "FANCY",
+    "artist": "TWICE",
+    "tags": [
+      "girl-group"
+    ],
+    "status": "review"
+  },
+  {
+    "id": "cue_2010s_0242",
+    "appleMusicId": "",
+    "era": "2010s",
+    "title": "Feel Special",
+    "artist": "TWICE",
+    "tags": [
+      "girl-group"
+    ],
+    "status": "review"
+  },
+  {
+    "id": "cue_2010s_0243",
+    "appleMusicId": "",
+    "era": "2010s",
+    "title": "YES or YES",
+    "artist": "TWICE",
+    "tags": [
+      "girl-group"
+    ],
+    "status": "review"
+  },
+  {
+    "id": "cue_2010s_0244",
+    "appleMusicId": "",
+    "era": "2010s",
+    "title": "Dumb Dumb",
+    "artist": "Red Velvet",
+    "tags": [
+      "girl-group"
+    ],
+    "status": "review"
+  },
+  {
+    "id": "cue_2010s_0245",
+    "appleMusicId": "",
+    "era": "2010s",
+    "title": "Russian Roulette",
+    "artist": "Red Velvet",
+    "tags": [
+      "girl-group"
+    ],
+    "status": "review"
+  },
+  {
+    "id": "cue_2010s_0246",
+    "appleMusicId": "",
+    "era": "2010s",
+    "title": "Peek-A-Boo",
+    "artist": "Red Velvet",
+    "tags": [
+      "girl-group"
+    ],
+    "status": "review"
+  },
+  {
+    "id": "cue_2010s_0247",
+    "appleMusicId": "",
+    "era": "2010s",
+    "title": "Bad Boy",
+    "artist": "Red Velvet",
+    "tags": [
+      "girl-group"
+    ],
+    "status": "review"
+  },
+  {
+    "id": "cue_2010s_0248",
+    "appleMusicId": "",
+    "era": "2010s",
+    "title": "Energetic",
+    "artist": "Wanna One",
+    "tags": [
+      "boy-group",
+      "debut"
+    ],
+    "status": "review"
+  },
+  {
+    "id": "cue_2010s_0249",
+    "appleMusicId": "",
+    "era": "2010s",
+    "title": "PICK ME",
+    "artist": "PRODUCE 101",
+    "tags": [
+      "survival",
+      "iconic"
+    ],
+    "status": "review"
+  },
+  {
+    "id": "cue_2010s_0250",
+    "appleMusicId": "",
+    "era": "2010s",
+    "title": "Very Very Very",
+    "artist": "I.O.I",
+    "tags": [
+      "girl-group"
+    ],
+    "status": "review"
+  },
+  {
+    "id": "cue_2010s_0251",
+    "appleMusicId": "",
+    "era": "2010s",
+    "title": "Um Oh Ah Yeh",
+    "artist": "MAMAMOO",
+    "tags": [
+      "girl-group"
+    ],
+    "status": "review"
+  },
+  {
+    "id": "cue_2010s_0252",
+    "appleMusicId": "",
+    "era": "2010s",
+    "title": "You're the Best",
+    "artist": "MAMAMOO",
+    "tags": [
+      "girl-group"
+    ],
+    "status": "review"
+  },
+  {
+    "id": "cue_2010s_0253",
+    "appleMusicId": "",
+    "era": "2010s",
+    "title": "Décalcomanie",
+    "artist": "MAMAMOO",
+    "tags": [
+      "girl-group"
+    ],
+    "status": "review"
+  },
+  {
+    "id": "cue_2010s_0254",
+    "appleMusicId": "",
+    "era": "2010s",
+    "title": "HIP",
+    "artist": "MAMAMOO",
+    "tags": [
+      "girl-group"
+    ],
+    "status": "review"
+  },
+  {
+    "id": "cue_2010s_0255",
+    "appleMusicId": "",
+    "era": "2010s",
+    "title": "Gashina",
+    "artist": "SUNMI",
+    "tags": [
+      "solo"
+    ],
+    "status": "review"
+  },
+  {
+    "id": "cue_2010s_0256",
+    "appleMusicId": "",
+    "era": "2010s",
+    "title": "Heroine",
+    "artist": "SUNMI",
+    "tags": [
+      "solo"
+    ],
+    "status": "review"
+  },
+  {
+    "id": "cue_2010s_0257",
+    "appleMusicId": "",
+    "era": "2010s",
+    "title": "Siren",
+    "artist": "SUNMI",
+    "tags": [
+      "solo"
+    ],
+    "status": "review"
+  },
+  {
+    "id": "cue_2010s_0258",
+    "appleMusicId": "",
+    "era": "2010s",
+    "title": "Gotta Go",
+    "artist": "CHUNG HA",
+    "tags": [
+      "solo"
+    ],
+    "status": "review"
+  },
+  {
+    "id": "cue_2010s_0259",
+    "appleMusicId": "",
+    "era": "2010s",
+    "title": "HER",
+    "artist": "Block B",
+    "tags": [
+      "boy-group"
+    ],
+    "status": "review"
+  },
+  {
+    "id": "cue_2010s_0260",
+    "appleMusicId": "",
+    "era": "2010s",
+    "title": "Missing You",
+    "artist": "BTOB",
+    "tags": [
+      "boy-group",
+      "ballad"
+    ],
+    "status": "review"
+  },
+  {
+    "id": "cue_2010s_0261",
+    "appleMusicId": "",
+    "era": "2010s",
+    "title": "REALLY REALLY",
+    "artist": "WINNER",
+    "tags": [
+      "boy-group"
+    ],
+    "status": "review"
+  },
+  {
+    "id": "cue_2010s_0262",
+    "appleMusicId": "",
+    "era": "2010s",
+    "title": "200%",
+    "artist": "AKMU",
+    "tags": [
+      "duo"
+    ],
+    "status": "review"
+  },
+  {
+    "id": "cue_2010s_0263",
+    "appleMusicId": "",
+    "era": "2010s",
+    "title": "MINISKIRT",
+    "artist": "AOA",
+    "tags": [
+      "girl-group"
+    ],
+    "status": "review"
+  },
+  {
+    "id": "cue_2010s_0264",
+    "appleMusicId": "",
+    "era": "2010s",
+    "title": "Heart Attack",
+    "artist": "AOA",
+    "tags": [
+      "girl-group"
+    ],
+    "status": "review"
+  },
+  {
+    "id": "cue_2010s_0265",
+    "appleMusicId": "",
+    "era": "2010s",
+    "title": "Me Gustas Tu",
+    "artist": "GFRIEND",
+    "tags": [
+      "girl-group"
+    ],
+    "status": "review"
+  },
+  {
+    "id": "cue_2010s_0266",
+    "appleMusicId": "",
+    "era": "2010s",
+    "title": "Rough",
+    "artist": "GFRIEND",
+    "tags": [
+      "girl-group"
+    ],
+    "status": "review"
+  },
+  {
+    "id": "cue_2010s_0267",
+    "appleMusicId": "",
+    "era": "2010s",
+    "title": "Navillera",
+    "artist": "GFRIEND",
+    "tags": [
+      "girl-group"
+    ],
+    "status": "review"
+  },
+  {
+    "id": "cue_2010s_0268",
+    "appleMusicId": "",
+    "era": "2010s",
+    "title": "DALLA DALLA",
+    "artist": "ITZY",
+    "tags": [
+      "girl-group",
+      "debut"
+    ],
+    "status": "review"
+  },
+  {
+    "id": "cue_2010s_0269",
+    "appleMusicId": "",
+    "era": "2010s",
+    "title": "ICY",
+    "artist": "ITZY",
+    "tags": [
+      "girl-group"
+    ],
+    "status": "review"
+  },
+  {
+    "id": "cue_2010s_0270",
+    "appleMusicId": "",
+    "era": "2010s",
+    "title": "LATATA",
+    "artist": "(G)I-DLE",
+    "tags": [
+      "girl-group",
+      "debut"
+    ],
+    "status": "review"
+  }
+]
