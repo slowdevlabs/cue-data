@@ -5,8 +5,8 @@
   "files": [
     {
       "era": "1990s",
-      "file": "songs_1990s.json",
-      "count": 15
+      "file": "songs_1990s_v2.json",
+      "count": 36
     },
     {
       "era": "2000s",
