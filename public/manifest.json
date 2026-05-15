@@ -10,19 +10,19 @@
     },
     {
       "era": "2000s",
-      "file": "songs_2000s.json",
+      "file": "songs_2000s_v2.json",
       "count": 15
     },
     {
       "era": "2010s",
-      "file": "songs_2010s.json",
+      "file": "songs_2010s_v2.json",
       "count": 20
     },
     {
       "era": "2020s",
-      "file": "songs_2020s.json",
+      "file": "songs_2020s_v2.json",
       "count": 20
     }
   ],
-  "notes": "previewURL은 포함하지 않음. appleMusicId/cueStartTime 검증 후 isActive를 true로 전환."
+  "notes": "previewURL은 포함하지 않음. "
 }
