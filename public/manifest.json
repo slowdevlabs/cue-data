@@ -1,5 +1,5 @@
 {
-  "version": 1,
+  "version": 1.0.0.1,
   "updatedAt": "2026-05-07",
   "schema": "cue-song-catalog-v1",
   "files": [
@@ -20,7 +20,7 @@
     },
     {
       "era": "2020s",
-      "file": "songs_2020s_v2.json",
+      "file": "songs_2020s_v3.json",
       "count": 20
     }
   ],
