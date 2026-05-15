@@ -1,0 +1,440 @@
+[
+  {
+    "id": "cue_1990s_0001",
+    "appleMusicId": "1060455878",
+    "era": "1990s",
+    "title": "Candy",
+    "artist": "H.O.T.",
+    "tags": [
+      "1st-gen",
+      "boy-group",
+      "iconic-intro"
+    ],
+    "status": "approved"
+  },
+  {
+    "id": "cue_1990s_0002",
+    "appleMusicId": "1060462218",
+    "era": "1990s",
+    "title": "행복",
+    "artist": "H.O.T.",
+    "tags": [
+      "1st-gen",
+      "boy-group"
+    ],
+    "status": "approved"
+  },
+  {
+    "id": "cue_1990s_0003",
+    "appleMusicId": "1463773208",
+    "era": "1990s",
+    "title": "Couple",
+    "artist": "젝스키스",
+    "tags": [
+      "1st-gen",
+      "boy-group"
+    ],
+    "status": "approved"
+  },
+  {
+    "id": "cue_1990s_0004",
+    "appleMusicId": "1463773756",
+    "era": "1990s",
+    "title": "폼생폼사",
+    "artist": "젝스키스",
+    "tags": [
+      "1st-gen",
+      "boy-group"
+    ],
+    "status": "approved"
+  },
+  {
+    "id": "cue_1990s_0005",
+    "appleMusicId": "1060484510",
+    "era": "1990s",
+    "title": "Dreams Come True",
+    "artist": "S.E.S.",
+    "tags": [
+      "1st-gen",
+      "girl-group",
+      "iconic-intro"
+    ],
+    "status": "approved"
+  },
+  {
+    "id": "cue_1990s_0006",
+    "appleMusicId": "1060481744",
+    "era": "1990s",
+    "title": "I'm Your Girl",
+    "artist": "S.E.S.",
+    "tags": [
+      "1st-gen",
+      "girl-group",
+      "debut"
+    ],
+    "status": "approved"
+  },
+  {
+    "id": "cue_1990s_0007",
+    "appleMusicId": "1456211562",
+    "era": "1990s",
+    "title": "To My Boyfriend",
+    "artist": "핑클",
+    "tags": [
+      "1st-gen",
+      "girl-group"
+    ],
+    "status": "approved"
+  },
+  {
+    "id": "cue_1990s_0008",
+    "appleMusicId": "1456207541",
+    "era": "1990s",
+    "title": "영원한 사랑",
+    "artist": "핑클",
+    "tags": [
+      "1st-gen",
+      "girl-group"
+    ],
+    "status": "approved"
+  },
+  {
+    "id": "cue_1990s_0009",
+    "appleMusicId": "1494267337",
+    "era": "1990s",
+    "title": "날개 잃은 천사",
+    "artist": "룰라",
+    "tags": [
+      "dance",
+      "mixed-group"
+    ],
+    "status": "approved"
+  },
+  {
+    "id": "cue_1990s_0010",
+    "appleMusicId": "1728627771",
+    "era": "1990s",
+    "title": "잘못된 만남",
+    "artist": "김건모",
+    "tags": [
+      "dance",
+      "solo"
+    ],
+    "status": "approved"
+  },
+  {
+    "id": "cue_1990s_0011",
+    "appleMusicId": "1342475374",
+    "era": "1990s",
+    "title": "가솔린",
+    "artist": "지누션",
+    "tags": [
+      "hip-hop",
+      "duo"
+    ],
+    "status": "approved"
+  },
+  {
+    "id": "cue_1990s_0012",
+    "appleMusicId": "1421108874",
+    "era": "1990s",
+    "title": "Tell Me Tell Me",
+    "artist": "샵",
+    "tags": [
+      "mixed-group",
+      "dance"
+    ],
+    "status": "approved"
+  },
+  {
+    "id": "cue_1990s_0013",
+    "appleMusicId": "1700425646",
+    "era": "1990s",
+    "title": "왜 불러",
+    "artist": "디바",
+    "tags": [
+      "girl-group",
+      "dance"
+    ],
+    "status": "approved"
+  },
+  {
+    "id": "cue_1990s_0014",
+    "appleMusicId": "1617083098",
+    "era": "1990s",
+    "title": "와",
+    "artist": "이정현",
+    "tags": [
+      "solo",
+      "techno",
+      "iconic-intro"
+    ],
+    "status": "approved"
+  },
+  {
+    "id": "cue_1990s_0015",
+    "appleMusicId": "1618189407",
+    "era": "1990s",
+    "title": "Tears",
+    "artist": "소찬휘",
+    "tags": [
+      "vocal",
+      "rock",
+      "karaoke-classic"
+    ],
+    "status": "approved"
+  },
+  {
+    "id": "cue_1990s_0016",
+    "appleMusicId": "1614224693",
+    "era": "1990s",
+    "title": "난 알아요",
+    "artist": "서태지와 아이들",
+    "tags": [
+      "dance",
+      "hip-hop",
+      "iconic"
+    ],
+    "status": "approved"
+  },
+  {
+    "id": "cue_1990s_0017",
+    "appleMusicId": "1631077829",
+    "era": "1990s",
+    "title": "하여가",
+    "artist": "서태지와 아이들",
+    "tags": [
+      "dance",
+      "hip-hop"
+    ],
+    "status": "approved"
+  },
+  {
+    "id": "cue_1990s_0018",
+    "appleMusicId": "1622325831",
+    "era": "1990s",
+    "title": "Come Back Home",
+    "artist": "서태지와 아이들",
+    "tags": [
+      "hip-hop",
+      "iconic"
+    ],
+    "status": "approved"
+  },
+  {
+    "id": "cue_1990s_0019",
+    "appleMusicId": "1622325828",
+    "era": "1990s",
+    "title": "필승",
+    "artist": "서태지와 아이들",
+    "tags": [
+      "rock",
+      "dance"
+    ],
+    "status": "approved"
+  },
+  {
+    "id": "cue_1990s_0020",
+    "appleMusicId": "1614225010",
+    "era": "1990s",
+    "title": "이 밤이 깊어가지만",
+    "artist": "서태지와 아이들",
+    "tags": [
+      "dance"
+    ],
+    "status": "approved"
+  },
+  {
+    "id": "cue_1990s_0021",
+    "appleMusicId": "1804591408",
+    "era": "1990s",
+    "title": "나를 돌아봐",
+    "artist": "듀스",
+    "tags": [
+      "dance",
+      "hip-hop"
+    ],
+    "status": "approved"
+  },
+  {
+    "id": "cue_1990s_0022",
+    "appleMusicId": "1804601893",
+    "era": "1990s",
+    "title": "여름 안에서",
+    "artist": "듀스",
+    "tags": [
+      "summer",
+      "dance"
+    ],
+    "status": "approved"
+  },
+  {
+    "id": "cue_1990s_0023",
+    "appleMusicId": "1804582074",
+    "era": "1990s",
+    "title": "우리는",
+    "artist": "듀스",
+    "tags": [
+      "dance",
+      "hip-hop"
+    ],
+    "status": "approved"
+  },
+  {
+    "id": "cue_1990s_0024",
+    "appleMusicId": "1464912284",
+    "era": "1990s",
+    "title": "DOC와 춤을",
+    "artist": "DJ DOC",
+    "tags": [
+      "dance",
+      "hip-hop",
+      "party"
+    ],
+    "status": "approved"
+  },
+  {
+    "id": "cue_1990s_0025",
+    "appleMusicId": "1619242738",
+    "era": "1990s",
+    "title": "머피의 법칙",
+    "artist": "DJ DOC",
+    "tags": [
+      "dance",
+      "hip-hop"
+    ],
+    "status": "approved"
+  },
+  {
+    "id": "cue_1990s_0026",
+    "appleMusicId": "1678031999",
+    "era": "1990s",
+    "title": "겨울 이야기",
+    "artist": "DJ DOC",
+    "tags": [
+      "winter",
+      "dance"
+    ],
+    "status": "approved"
+  },
+  {
+    "id": "cue_1990s_0027",
+    "appleMusicId": "1700438575",
+    "era": "1990s",
+    "title": "몰라",
+    "artist": "엄정화",
+    "tags": [
+      "solo",
+      "dance"
+    ],
+    "status": "approved"
+  },
+  {
+    "id": "cue_1990s_0028",
+    "appleMusicId": "1700430885",
+    "era": "1990s",
+    "title": "Poison",
+    "artist": "엄정화",
+    "tags": [
+      "solo",
+      "dance"
+    ],
+    "status": "approved"
+  },
+  {
+    "id": "cue_1990s_0029",
+    "appleMusicId": "1700430887",
+    "era": "1990s",
+    "title": "초대",
+    "artist": "엄정화",
+    "tags": [
+      "solo",
+      "dance"
+    ],
+    "status": "approved"
+  },
+  {
+    "id": "cue_1990s_0030",
+    "appleMusicId": "1870108668",
+    "era": "1990s",
+    "title": "Honey",
+    "artist": "박진영",
+    "tags": [
+      "solo",
+      "dance"
+    ],
+    "status": "approved"
+  },
+  {
+    "id": "cue_1990s_0031",
+    "appleMusicId": "1869905727",
+    "era": "1990s",
+    "title": "그녀는 예뻤다",
+    "artist": "박진영",
+    "tags": [
+      "solo",
+      "dance"
+    ],
+    "status": "approved"
+  },
+  {
+    "id": "cue_1990s_0032",
+    "appleMusicId": "1439910772",
+    "era": "1990s",
+    "title": "날 떠나지마",
+    "artist": "박진영",
+    "tags": [
+      "solo",
+      "dance"
+    ],
+    "status": "approved"
+  },
+  {
+    "id": "cue_1990s_0033",
+    "appleMusicId": "1728625576",
+    "era": "1990s",
+    "title": "꿍따리 샤바라",
+    "artist": "클론",
+    "tags": [
+      "duo",
+      "dance"
+    ],
+    "status": "approved"
+  },
+  {
+    "id": "cue_1990s_0034",
+    "appleMusicId": "1728629381",
+    "era": "1990s",
+    "title": "도시탈출",
+    "artist": "클론",
+    "tags": [
+      "duo",
+      "dance"
+    ],
+    "status": "approved"
+  },
+  {
+    "id": "cue_1990s_0035",
+    "appleMusicId": "1728630910",
+    "era": "1990s",
+    "title": "Funky Tonight",
+    "artist": "클론",
+    "tags": [
+      "duo",
+      "dance"
+    ],
+    "status": "approved"
+  },
+  {
+    "id": "cue_1990s_0036",
+    "appleMusicId": "1762617105",
+    "era": "1990s",
+    "title": "검은 고양이",
+    "artist": "터보",
+    "tags": [
+      "duo",
+      "dance"
+    ],
+    "status": "approved"
+  }
+]
