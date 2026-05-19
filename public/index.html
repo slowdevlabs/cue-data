@@ -1,0 +1,28 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>CUE</title>
+    <link rel="stylesheet" href="/assets/style.css" />
+    <script>
+      (function () {
+        var lang = (navigator.languages && navigator.languages.length ? navigator.languages[0] : navigator.language || "en").toLowerCase();
+        var target = "/support/en/";
+        if (lang.indexOf("ko") === 0) target = "/support/ko/";
+        else if (lang.indexOf("es") === 0) target = "/support/es/";
+        window.location.replace(target);
+      })();
+    </script>
+  </head>
+  <body>
+    <main class="shell">
+      <section class="panel">
+        <div class="brand"><span class="brand-mark"></span> CUE</div>
+        <h1 class="title">Redirecting to Support</h1>
+        <p class="lede">Your browser language is being used to open the best matching support page.</p>
+        <p class="note">If the redirect does not start automatically, open <a href="/support/en/">support/en</a>.</p>
+      </section>
+    </main>
+  </body>
+</html>
